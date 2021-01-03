@@ -4,6 +4,8 @@ header:
   - title:      Docs
     url:        /docs/getting-started
     key:        docs
+  - title:      Staff
+    url:        /staff
   - title:      About
     url:        /about
 
