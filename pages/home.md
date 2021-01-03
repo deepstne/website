@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home - Darkstone
+title: Home
 permalink: /
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: Blog
-lagout: articles
+layout: articles
 permalink: /blog
 ---
