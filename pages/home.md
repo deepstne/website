@@ -5,7 +5,7 @@ permalink: /
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/cover2.jpg
+    src: https://avatars0.githubusercontent.com/u/62194481?s=400&u=c162d5c49dd99d196c3d5325c97c518a4683716d&v=4
 ---
 
 ## Getting creative wheels spinning
