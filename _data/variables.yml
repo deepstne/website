@@ -7,7 +7,7 @@ default:
     home: /
     archive:  /archive.html
     rss:  /feed.xml
-    docs: /docs
+    docs: /docs/getting-started
   mathjax: false
   mathjax_autoNumber: false
   mermaid: false
