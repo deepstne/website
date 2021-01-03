@@ -8,8 +8,7 @@ permalink: /staff
 Our server staff members are appointed to make sure everything is ok 👌 with the server's rules. Every member of the team is selected to be an enforcer of the rules and someone who supports the community. This page will provide the general role of each rank, and how to get in contact with each member.
 
 
-### Executives
-<hr>
+<h3 style="line-height: 5rem; border-bottom: 3px #E64A3A solid;">Executives</h3>
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
@@ -18,6 +17,5 @@ Our server staff members are appointed to make sure everything is ok 👌 with t
   </div>
 </div>
 </center>
-<hr>
 
 Executives are the bottom text
