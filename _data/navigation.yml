@@ -1,6 +1,6 @@
 header:
   - title:      Home
-    url:        /test/
+    url:        /#/
   - title:      Docs
     url:        /docs/getting-started
     key:        docs
