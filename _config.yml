@@ -212,8 +212,7 @@ defaults:
       pageview: true
   ## blog
   - scope:
-      path: "blog"
-      type: posts
+      path: ""
     values:
       layout: articles
       sharing: true
