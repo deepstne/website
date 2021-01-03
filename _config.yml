@@ -198,7 +198,7 @@ exclude:
   - package.json
 
 defaults:
-  # home
+  ## home
   - scope:
       path: ""
     values:
@@ -235,6 +235,17 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: true
+      show_date: true
+      # lightbox: true
+  ## staff
+  - scope:
+      path: ""
+    values:
+      layout: page
+      license: true
+      aside:
+        toc: false
+      show_edit_on_github: false
       show_date: false
       # lightbox: true
 
