@@ -4,15 +4,8 @@ header:
   - title:      Docs
     url:        /docs/getting-started
     key:        docs
-  - title:      Samples
-    url:        /samples.html
-    key:        samples
-  - title:      Archive
-    url:        /archive.html
   - title:      About
-    url:        /about.html
-  - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
+    url:        /about
 
 
 docs:

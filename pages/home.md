@@ -2,6 +2,10 @@
 layout: home
 title: Home
 permalink: /
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
 ---
 
 ## Getting creative wheels spinning
