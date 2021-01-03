@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: darkstne/website
 repository_tree: master
 
 
@@ -66,6 +66,7 @@ paths:
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
+  docs    : /docs
 
 
 ## => Post
@@ -195,7 +196,6 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
   - /node_modules
   - /screenshots
   - /test
