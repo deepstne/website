@@ -7,7 +7,7 @@ permalink: /staff
 ## Staff team
 Our server staff members are appointed to make sure everything is in line 👌 with the server's rules. Every member of the team is selected to be an enforcer of the rules and someone who supports the community. This page will provide the general role of each rank, and how to get in contact with each member.
 
-<h3 style="line-height: 2.5rem; border-bottom: 3px #E64A3A solid;">Executives</h3>
+<h3 style="line-height: 2.5rem; margin-top: 1.5rem; border-bottom: 3px #E64A3A solid;">Executives</h3>
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
@@ -19,7 +19,7 @@ Our server staff members are appointed to make sure everything is in line 👌 w
 
 Executives are responsible for the server's operations. They focus on maintaining the server both in the short-term and also focusing on the long-term goals of the project. They oversee issues that affect the community and are the final interpreters of the server's rules. They are also responsible for paying for the server's hosting and domain(s). In short, they do almost everything.
 
-<h3 style="line-height: 2.5rem; border-bottom: 3px #9B59B6 solid;">Developers</h3>
+<h3 style="line-height: 2.5rem; margin-top: 1.5rem; border-bottom: 3px #9B59B6 solid;">Developers</h3>
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
