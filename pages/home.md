@@ -1,17 +1,15 @@
 ---
 layout: article
 title: The network made for you.
-excerpt: aaaaa
 permalink: /
 header:
   theme: default
-  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
+  background: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
 article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
 ---
 
