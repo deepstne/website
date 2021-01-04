@@ -2,12 +2,6 @@
 layout: article
 title: Creative server
 permalink: /servers/creative
-mode: immersive
-article_header:
-  type: overlay
-  theme: dark
-  background_image:
-    src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
 ---
 
 The Creative server is our answer for a proper place to create and to collaborate in the Creative gamemode.
@@ -20,7 +14,7 @@ We offer a total of eight different worlds for creativity. Each of them has thei
 ### Sandbox
 "Sandbox" is the name we've given to our superflat, public testing world. If you're familiar with free-op style servers, this is our "flatlands" world for fun and unserious building.
 
-#### How do I access Sandbox?
+#### How do I access the sandbox?
 The sandbox is open to the public and no member application is necessary. On the Creative server you may run `/public` or `/sandbox` in order to access the world.
 
 ### Rhodesia
@@ -32,6 +26,8 @@ You must have applied and been approved for membership before being able to acce
 #### How do I get started?
 As one of our member-only worlds, members of the public must apply for building rights in Rhodesia.
 
-<a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/#/">Apply for membership</a>
+<a class="button button--outline-primary button--rounded" href="{{ site.baseurl}}/#/">Apply for membership</a>
 
 > Note: Members are required to follow more strict server rules when it comes to editing others' builds and griefing. Read the rules of membership status on our [help center](../hc).
+
+### Moesia
