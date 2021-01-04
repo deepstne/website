@@ -150,6 +150,8 @@ layout: base
                     {%- include home-header.html article=page semantic=false -%}
                     {%- if page.excerpt -%}
                       <center><p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p></center>
+                      <a class="button button--secondary button--rounded button--xl" style="color: #7289DA" href="{{ site.baseurl/forum}}">Join the community</a>
+                      <a class="button button--secondary button--rounded button--xl" href="{{ site.baseurl/discord }}">Discuss on Discord</a>
                     {%- endif -%}
                     {%- if page.article_header.actions -%}
                       <ul class="menu">

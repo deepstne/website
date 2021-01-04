@@ -225,12 +225,12 @@ defaults:
       pageview: true
   ## docs
   - scope:
-      path: "docs"
+      path: "support"
     values:
       layout: article
-      nav_key: docs
+      nav_key: support
       sidebar:
-        nav: docs
+        nav: support
       license: true
       aside:
         toc: true
