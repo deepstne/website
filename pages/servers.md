@@ -8,7 +8,7 @@ To put it simply, our goal is to provide our community with a place to express t
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--md" src="{{ site.baseurl }}/assets/images/creative.png"/>
+    <img class="image image--sm" src="{{ site.baseurl }}/assets/images/creative.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -21,9 +21,11 @@ To put it simply, our goal is to provide our community with a place to express t
   </div>
 </div>
 
+<br>
+
 <div class="item">
   <div class="item__image">
-    <img class="image image--md" src="{{ site.baseurl }}/assets/images/survival.png"/>
+    <img class="image image--sm" src="{{ site.baseurl }}/assets/images/survival.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -31,6 +33,7 @@ To put it simply, our goal is to provide our community with a place to express t
     </div>
     <div class="item__description">
       <p>The Survival server is one of the</p>
+      <a class="button button--secondary button--rounded button--lg" style="background-color: #cb4335" href="{{ site.baseurl}}/servers/survival">Learn more about Survival</a>
     </div>
   </div>
 </div>
