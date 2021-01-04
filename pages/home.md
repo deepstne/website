@@ -1,9 +1,11 @@
 ---
 layout: article
 title: The network made for you.
+excerpt: We're a server focused on creativity, collaboration and community.
 permalink: /
+mode: immersive
 header:
-  theme: default
+  theme: dark
   background: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
 article_header:
   type: overlay
