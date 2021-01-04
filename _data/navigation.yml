@@ -15,11 +15,10 @@ header:
 
 
 support:
-  - title:      Introduction
+  - title:      For players
     children:
       - title:  Getting started
         url:    /support/getting-started
-  - title:      For players
   - title:      For members
   - title:      For architects
   - title:      For staff
