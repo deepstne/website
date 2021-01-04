@@ -58,3 +58,5 @@ Detailed rank information can be viewed on the server's [documentation](../docs)
 </center>
 
 Mods are the server's general community moderators. They have access to moderation commands such as `/ban` and `/mute`, and have access to staff-only commands and permissions. They are also able to issue recommendations for permanent bans issued by Admins.
+
+Detailed rank information can be viewed on the server's [documentation](../docs).
