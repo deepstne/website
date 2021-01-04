@@ -5,7 +5,7 @@ excerpt: aaaaa
 permalink: /
 mode: immersive
 article_header:
-  type: overlay
+  type: cover
   theme: dark
   background_image:
     gradient: 'linear-gradient(135deg, rgb(0, 168, 168), rgb(203, 67, 53))'
