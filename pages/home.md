@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: landing
 title: The network made for you.
 excerpt: We're a server focused on creativity, collaboration and community.
 permalink: /
