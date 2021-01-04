@@ -13,7 +13,7 @@ header:
     url:        /staff
 
 
-support:
+help-center:
   - title:      For players
     children:
       - title:  Getting started
