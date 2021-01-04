@@ -4,12 +4,32 @@ title: The network made for you.
 excerpt: We're a server focused on creativity, collaboration and community.
 permalink: /
 mode: immersive
+actions:
+    - text: Getting Started
+      type: error
+      url: /docs/en/quick-start
+    - text: Demo
+      type: outline-theme-dark
+      url: /test/
 article_header:
   type: overlay
   theme: dark
   background_image:
-    gradient: linear-gradient(135deg, rgba(255, 69, 0, .5), rgba(255, 197, 0, .2))
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
+data:
+  sections:
+  - title: Super Customizable
+    excerpt: Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter.
+    actions:
+      - text: See Examples
+        url: /samples.html
+      - text: Learn More
+        url: /docs/en/configuration
+    image:
+      src: /screenshots/TeXt-layouts.png
+      is_row: true
+      full_width: true
+      style: "max-width: 1200px;"
 ---
 
 ## Getting creative wheels spinning

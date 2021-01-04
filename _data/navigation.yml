@@ -5,14 +5,9 @@ header:
   - title:      Rules
     url:        /rules
   - title:      Servers
-    url:        /#/
-    children:
-      - title:  Creative
-        url:    /server/creative
-      - title:  Survival
-        url:    /server/survival
+    url:        /servers
   - title:      Support
-    url:        /support/getting-started
+    url:        /hc/getting-started
     key:        support
   - title:      Staff
     url:        /staff
@@ -22,7 +17,7 @@ support:
   - title:      For players
     children:
       - title:  Getting started
-        url:    /support/getting-started
+        url:    /hc/getting-started
   - title:      For members
   - title:      For architects
   - title:      For staff
