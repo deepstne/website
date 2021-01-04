@@ -34,7 +34,7 @@ To put it simply, our goal is to provide our community with a place to express t
       <h3>Survival</h3>
     </div>
     <div class="item__description">
-      <p>The Survival server features a public, survival multiplayer and player-versus-environment style survival world focused around community and collaboration. Players are able to create, build-- thrive together without fear of raids or looting. Everyone gets access to chest and inventory block locking to prevent theft. We offer custom crafting recipes, warps and homes, and everyone can vote for additional cosmetic privileges.</p>
+      <p>The Survival server features a public, survival multiplayer and player-versus-environment style survival world focused around community and collaboration in a semi-vanilla environment. Players are able to create, build-- thrive together without fear of raids or looting. Everyone gets access to chest and inventory block locking to prevent theft. We offer custom crafting recipes, warps and homes, and everyone can vote for additional cosmetic privileges.</p>
       <a class="button button--secondary button--rounded button--lg" style="background-color: #cb4335" href="{{ site.baseurl}}/servers/survival">Learn more about Survival</a>
     </div>
   </div>
