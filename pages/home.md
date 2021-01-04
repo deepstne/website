@@ -5,14 +5,14 @@ excerpt: aaaaa
 permalink: /
 mode: immersive
 header:
-  theme: dark
+  theme: default
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgb(0, 168, 168), rgb(203, 67, 53))'
+    gradient: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
 ---
 
