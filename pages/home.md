@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: article
 title: The network made for you.
 permalink: /
 article_header:
