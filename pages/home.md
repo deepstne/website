@@ -6,13 +6,13 @@ permalink: /
 mode: immersive
 header:
   theme: dark
-  background: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
 article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
+    gradient: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
 ---
 
 ## Getting creative wheels spinning
