@@ -44,3 +44,6 @@ To put it simply, our goal is to provide our community with a place to express t
 For your convenience, we have a dedicated [server rules page](../rules) for your reference. This page is kept up-to-date with the latest changes to our rules, and we'll always let you know when something changes.
 
 An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc).
+
+## Legacy
+The files on all of our servers are regularly released on GitHub and made open-source for our members to access. If you want to download one of our worlds, or see what our plugin configs look like, you may do so on the [archive repository](https://github.com/darkstne/archive). All of these files are scrubbed for sensitive server information (such as database passwords) and user identifying information.
