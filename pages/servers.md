@@ -11,7 +11,7 @@ has_children: true
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image">
-          <img class="image" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Grass_Block_JE7_BE6.png/revision/latest?cb=20200830143209"/>
+          <img class="image" src="{{ site.baseurl }}/assets/images/creative.png"/>
         </div>
         <div class="card__content">
         <div class="card__header">
@@ -23,7 +23,7 @@ has_children: true
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image">
-          <img class="image" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/07/Crafting_Table_JE4.png/revision/latest?cb=20191229083528"/>
+          <img class="image" src="{{ site.baseurl }}/assets/images/survival.png"/>
         </div>
         <div class="card__content">
         <div class="card__header">
