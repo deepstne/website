@@ -1,10 +1,12 @@
 ---
 layout: home
-title: Home
+title: The network made for you.
 permalink: /
 article_header:
   type: overlay
-  image image--sm:
+  theme: dark
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
 ---
 
