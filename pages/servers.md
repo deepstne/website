@@ -26,12 +26,6 @@ darkst.one
           </div>
       </div>
   </div>
-      </div>
-    </div>
-    <div class="cell cell--6"><div>6 cells</div></div>
-    <div class="cell cell--6"><div>6 cells</div></div>
-    <div class="cell cell--6"><div>6 cells</div></div>
-  </div>
   <div class="grid grid--py-3">
     <div class="cell cell--6">
       <div>
