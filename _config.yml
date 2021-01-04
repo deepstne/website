@@ -241,7 +241,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: page
+      layout: article
       license: true
       aside:
         toc: false
@@ -252,7 +252,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: page
+      layout: article
       license: true
       aside:
         toc: false
