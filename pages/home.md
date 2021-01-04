@@ -6,7 +6,7 @@ permalink: /
 mode: immersive
 header:
   theme: dark
-  background: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
+  background: 'linear-gradient(135deg, rgb(32, 32, 32), rgb(255, 149, 0))'
 article_header:
   type: overlay
   theme: dark
