@@ -6,7 +6,11 @@ header:
   - title:      Rules
     url:        /rules
   - title:      Servers
-    url:        /servers
+    children:
+      - title:  Creative
+        url:    /server/creative
+      - title:  Survival
+        url:    /server/survival
   - title:      Support
     url:        /support/getting-started
     key:        support

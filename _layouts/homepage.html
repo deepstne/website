@@ -150,8 +150,8 @@ layout: base
                     {%- include home-header.html article=page semantic=false -%}
                     {%- if page.excerpt -%}
                       <center><p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
-                      <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ site.baseurl/forum}}">Talk with the community</a>
-                      <a class="button button--secondary button--rounded button--xl" style="background-color: #7289DA" href="{{ site.baseurl/discord }}">Collaborate on Discord</a></center>
+                      <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ site.baseurl}}/forum">Talk with the community</a>
+                      <a class="button button--secondary button--rounded button--xl" style="background-color: #7289DA" href="{{ site.baseurl}}/discord">Collaborate on Discord</a></center>
                     {%- endif -%}
                     {%- if page.article_header.actions -%}
                       <ul class="menu">
