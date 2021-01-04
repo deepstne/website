@@ -20,13 +20,13 @@
       {%- endif -%}
       <div class="footer__author-links">
         {%- include author-links.html author=_site_author -%}
+        <a href="{{ site.baseurl }}/terms">Terms of Service</a> and <a href="{{ site.baseurl }}/privacy"> Privacy Policy</a>.
       </div>
     </div>
     {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
     {%- assign _locale_copyright_dates = __return -%}
     <div class="site-info mt-2">
       <div>
-        <a href="{{ site.baseurl }}/terms">Terms of Service</a> and <a href="{{ site.baseurl }}/privacy"> Privacy Policy</a>.
         {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
         {%- assign _locale_copyright_dates = __return -%}
         © {{ site.title }} {{ _locale_copyright_dates }},

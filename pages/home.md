@@ -3,8 +3,8 @@ layout: home
 title: Home
 permalink: /
 article_header:
-  type: cover
-  image:
+  type: overlay
+  image image--sm:
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
 ---
 

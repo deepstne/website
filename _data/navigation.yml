@@ -6,6 +6,8 @@ header:
     key:        docs
   - title:      Rules
     url:        /rules
+  - title:      Servers
+    url:        /servers
   - title:      Staff
     url:        /staff
   - title:      About
