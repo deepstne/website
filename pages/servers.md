@@ -14,23 +14,15 @@ has_children: true
   }
 </style>
 
-<div class="grid-container">
-  <div class="grid grid--py-3">
-    <div class="cell cell--6">
-    <div class="hero hero--center hero--dark hero-creative--linear-gradient">
-      <div class="hero__content">
-        <h3>Creative</h3>
-        <p>text</p>
-      </div>
-    </div>
+<div class="hero hero--center hero--dark hero-creative--linear-gradient">
+  <div class="hero__content">
+    <h3>Creative</h3>
+    <p>text</p>
   </div>
-    </div>
-    <div class="cell cell--6">
-      <div class="hero hero--center hero--dark hero-survival--linear-gradient">
-        <div class="hero__content">
-          <h3>Survival</h3>
-          <p>text</p>
-        </div>
-      </div>
-    </div>
+</div>
+<div class="hero hero--center hero--dark hero-survival--linear-gradient">
+  <div class="hero__content">
+    <h3>Survival</h3>
+    <p>text</p>
+  </div>
 </div>
