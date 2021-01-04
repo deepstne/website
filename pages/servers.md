@@ -14,6 +14,7 @@ has_children: true
         <div class="card__image">
           <img class="image" src="{{ site.baseurl }}/assets/images/creative.png"/>
         </div>
+    </a>
         <div class="card__content">
         <div class="card__header">
           <h4>Creative</h4>
@@ -28,11 +29,11 @@ has_children: true
         <div class="card__image">
           <img class="image" src="{{ site.baseurl }}/assets/images/survival.png"/>
         </div>
+    </a>
         <div class="card__content">
         <div class="card__header">
           <h4>Creative</h4>
         </div>
         </div>
       </div>
-    </a>
     </div>
