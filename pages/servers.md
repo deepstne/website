@@ -9,12 +9,10 @@ has_children: true
 <div class="grid-container">
   <div class="grid grid--py-3">
     <div class="cell cell--6">
-    <a href="{{ site.baseurl}}/servers/creative"
       <div class="card card--clickable">
         <div class="card__image">
-          <img class="image" src="{{ site.baseurl }}/assets/images/creative.png"/>
+          <a href="{{ site.baseurl}}/servers/creative"<img class="image" src="{{ site.baseurl }}/assets/images/creative.png"/></a>
         </div>
-    </a>
         <div class="card__content">
         <div class="card__header">
           <h4>Creative</h4>
@@ -24,12 +22,9 @@ has_children: true
     </a>
     </div>
     <div class="cell cell--6">
-    <a href="{{ site.baseurl}}/servers/survival"
-      <div class="card card--clickable">
-        <div class="card__image">
-          <img class="image" src="{{ site.baseurl }}/assets/images/survival.png"/>
-        </div>
-    </a>
+    <div class="card__image">
+      <a href="{{ site.baseurl}}/servers/survival"<img class="image" src="{{ site.baseurl }}/assets/images/survival.png"/></a>
+    </div>
         <div class="card__content">
         <div class="card__header">
           <h4>Creative</h4>
