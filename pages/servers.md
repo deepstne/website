@@ -2,27 +2,39 @@
 layout: article
 title: Our servers
 permalink: /servers
-has_children: true
 ---
 
-<style>
-  .hero-creative--linear-gradient {
-    background-image: linear-gradient(135deg, rgba(0, 168, 168, .5), rgba(0, 168, 200, .2)), url("{{ site.baseurl }}/assets/images/creative.png");
-  }
-  .hero-survival--linear-gradient {
-    background-image: linear-gradient(135deg, rgba(203, 67, 53, .5), rgba(255, 67, 53, .2)), url("{{ site.baseurl }}/assets/images/survival.png");
-  }
-</style>
+Our goal is to provide our community with a place to express themselves using the latest tools available to Minecraft servers. Everyone is able to claim a plot, start a survival community or use WorldEdit.
 
-<div class="hero hero--center hero--dark hero-creative--linear-gradient">
-  <div class="hero__content">
-    <h3>Creative</h3>
-    <p>text</p>
+<a class="button button--info button--circle button--lg" href="#"><i class="fas fa-hdd-o"></i></a>
+
+### Server address
+darkst.one
+
+<div class="item">
+  <div class="item__image">
+    <img class="image" src="{{ site.baseurl}}/assets/images/creative.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>Creative</h4>
+    </div>
+    <div class="item__description">
+      <p>The Creative server is the</p>
+    </div>
   </div>
 </div>
-<div class="hero hero--center hero--dark hero-survival--linear-gradient">
-  <div class="hero__content">
-    <h3>Survival</h3>
-    <p>text</p>
+
+<div class="item">
+  <div class="item__image">
+    <img class="image" src="{{ site.baseurl}}/assets/images/survival.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>Survival</h4>
+    </div>
+    <div class="item__description">
+      <p>The Survival server is the</p>
+    </div>
   </div>
 </div>
