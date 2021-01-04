@@ -6,7 +6,7 @@ permalink: /rules
 
 We have a set of five, general and memorable rules that all players should know when talking with others and being on our platforms. These rules are designed to keep everyone polite, respectful, but most importantly, safe. By joining any of our platforms you agree that you will follow these rules.
 
-An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [documentation](../docs).
+An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc).
 
 ## Golden rule
 
