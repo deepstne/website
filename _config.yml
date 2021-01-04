@@ -235,14 +235,14 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: true
-      show_date: true
+      show_date: false
       # lightbox: true
   ## rules
   - scope:
       path: ""
     values:
       layout: article
-      license: true
+      license: false
       aside:
         toc: false
       show_edit_on_github: false
@@ -253,7 +253,7 @@ defaults:
       path: ""
     values:
       layout: article
-      license: true
+      license: false
       aside:
         toc: false
       show_edit_on_github: false
