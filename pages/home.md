@@ -4,15 +4,12 @@ title: The network made for you.
 excerpt: We're a server focused on creativity, collaboration and community.
 permalink: /
 mode: immersive
-header:
-  theme: dark
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
   background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
-    gradient: 'linear-gradient(135deg, rgb(255, 149, 0), rgb(32, 32, 32))'
 ---
 
 ## Getting creative wheels spinning
