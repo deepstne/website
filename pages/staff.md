@@ -36,9 +36,9 @@ Developers are responsible for writing and maintaining custom applications and s
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--6"><div><h3><a href="https://forum.darkst.one/u/MrMuffin"><img src="https://crafatar.com/renders/head/ce74e1fa867041ddbfc89c0c02a8472a?&amp;overlay" alt="Mr_Muffin_" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://forum.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://forum.darkst.one/u/kieran"><img src="https://crafatar.com/renders/head/a6165b3611634d98be74ec1c50aef789?&amp;overlay" alt="ughItsKieran" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://forum.darkst.one/u/MrMuffin"><img src="https://crafatar.com/renders/head/ce74e1fa867041ddbfc89c0c02a8472a?&amp;overlay" alt="Mr_Muffin_" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://forum.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://forum.darkst.one/u/kieran"><img src="https://crafatar.com/renders/head/a6165b3611634d98be74ec1c50aef789?&amp;overlay" alt="ughItsKieran" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
@@ -51,9 +51,9 @@ Detailed rank information can be viewed on the server's [documentation](../docs)
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--6"><div><h3><a href="https://forum.darkst.one/u/Bemo"><img src="https://crafatar.com/renders/head/8a43ac7dc23948c9872ca09060704235?&amp;overlay" alt="Bemoseemo" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://forum.darkst.one/u/Pheno"><img src="https://crafatar.com/renders/head/dc7bd3dafd534ab3806b89d4d93aa72e?&amp;overlay" alt="Phenomality" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://forum.darkst.one/u/NotCheetahh"><img src="https://crafatar.com/renders/head/8d26d7faf62243cebf19155a1d8488d9?&amp;overlay" alt="NotCheetahh" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://forum.darkst.one/u/Bemo"><img src="https://crafatar.com/renders/head/8a43ac7dc23948c9872ca09060704235?&amp;overlay" alt="Bemoseemo" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://forum.darkst.one/u/Pheno"><img src="https://crafatar.com/renders/head/dc7bd3dafd534ab3806b89d4d93aa72e?&amp;overlay" alt="Phenomality" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://forum.darkst.one/u/NotCheetahh"><img src="https://crafatar.com/renders/head/8d26d7faf62243cebf19155a1d8488d9?&amp;overlay" alt="NotCheetahh" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
