@@ -8,6 +8,7 @@ article_header:
   type: overlay
   theme: dark
   background_image:
+    gradient: linear-gradient(135deg, rgba(255, 69, 0, .5), rgba(255, 197, 0, .2))
     src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
 ---
 

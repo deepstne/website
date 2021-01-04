@@ -1,11 +1,11 @@
 header:
   - title:      Home
-    url:        /#/
   - title:      About
     url:        /about
   - title:      Rules
     url:        /rules
   - title:      Servers
+    url:        /#/
     children:
       - title:  Creative
         url:    /server/creative
