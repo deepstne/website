@@ -3,7 +3,6 @@ layout: article
 title: The network made for you.
 excerpt: aaaaa
 permalink: /
-mode: immersive
 header:
   theme: default
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
