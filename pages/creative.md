@@ -18,7 +18,7 @@ We offer a total of eight different worlds for creativity. Each of them has thei
 The sandbox is open to the public and no member application is necessary. On the Creative server you may run `/public` or `/sandbox` in order to access the world.
 
 ### Rhodesia
-"Rhodesia" is the name we've given to our superflat, member-only city build world for the seriously creative. Our members can establish towns, cities and settlements with no restrictions from us as long as it keeps in line with our rules. There isn't a protection plugin, claims system or restricted areas.
+We call our superflat, member-only city build world "Rhodesia" that is designed for the seriously creative. Our members can establish towns, cities and settlements with no restrictions from us as long as it keeps in line with our rules. There isn't a protection plugin, claims system or restricted areas.
 
 #### How do I access Rhodesia?
 You must have applied and been approved for membership before being able to access Rhodesia. Once approved, on the Creative server you may run `/private` or `/rhodesia` in order to access the world.
@@ -26,8 +26,19 @@ You must have applied and been approved for membership before being able to acce
 #### How do I get started?
 As one of our member-only worlds, members of the public must apply for building rights in Rhodesia.
 
+> Note: Members are required to follow more strict server rules when it comes to editing others' builds and griefing. Read the rules of membership status on our [help center](../hc).
+
 <a class="button button--outline-primary button--rounded" href="{{ site.baseurl}}/#/">Apply for membership</a>
+
+### Moesia
+We call the vanilla-style overworld "Moesia" with vanilla terrain and village generation. Much like Rhodesia, our members can also establish towns and cities, and shape the world to their liking. There isn't a protection plugin here either, and members manage their own claims.
+
+#### How do I access Moesia?
+You must have applied and been approved for membership before being able to access Moesia. Once approved, on the Creative server you may run `/private` or `/moesia` in order to access the world.
+
+#### How do I get started?
+As one of our member-only worlds, members of the public must apply for building rights in Moesia.
 
 > Note: Members are required to follow more strict server rules when it comes to editing others' builds and griefing. Read the rules of membership status on our [help center](../hc).
 
-### Moesia
+<a class="button button--outline-primary button--rounded" href="{{ site.baseurl}}/#/">Apply for membership</a>
