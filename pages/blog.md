@@ -1,6 +1,5 @@
 ---
 layout: articles
-title: Blog
 permalink: /blog
 articles:
   data_source: site.posts
