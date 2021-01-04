@@ -4,7 +4,7 @@ title: Our servers
 permalink: /servers
 ---
 
-Our goal is to provide our community with a place to express themselves using the latest tools available to Minecraft servers. Everyone is able to claim a plot, start a survival community or use WorldEdit.
+To put it simply, our goal is to provide our community with a place to express themselves using the latest tools available to Minecraft servers. Everyone is able to claim a plot, start a survival community or use WorldEdit. Turning it up to 11, our server's members have access to private build worlds, enchanced WorldEdit permissions and priority for joining the server. Click [here](../) to learn about becoming a member of the server.
 
 ### Server address
 darkst.one
@@ -25,8 +25,6 @@ darkst.one
             <p>The Creative server is the</p>
           </div>
       </div>
-  </div>
-  <div class="grid grid--py-3">
     <div class="cell cell--6">
       <div>
         <div class="item">
