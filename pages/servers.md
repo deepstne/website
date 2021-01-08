@@ -40,8 +40,8 @@ To put it simply, our goal is to provide our community with a place to express t
   </div>
 </div>
 
-## Server rules
-For your convenience, we have a dedicated [server rules page](../rules) for your reference. This page is kept up-to-date with the latest changes to our rules, and we'll always let you know when something changes.
+## Global network rules
+For your convenience, we have a dedicated [server rules page](../rules) for your reference of the server's global rules. This page is kept up-to-date with the latest changes to our rules, and we'll always let you know when something changes.
 
 An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc).
 
