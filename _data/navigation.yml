@@ -20,9 +20,9 @@ help-center:
         url:    /hc/getting-started
       - title:  Rules and regulations
         url:    /hc/rules-and-regulations
-     - title:   Content moderation
+      - title:   Content moderation
         url:    /hc/content-moderation
-     - title:   Titles and honors
+      - title:   Titles and honors
         url:    /hc/titles-and-honors
   - title:      For members
   - title:      For architects
