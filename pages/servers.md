@@ -40,6 +40,8 @@ To put it simply, our goal is to provide our community with a place to express t
   </div>
 </div>
 
+<br>
+
 <div class="item">
   <div class="item__image">
     <img class="image image--sm" src="{{ site.baseurl }}/assets/images/skyblock.png"/>
@@ -50,7 +52,7 @@ To put it simply, our goal is to provide our community with a place to express t
     </div>
     <div class="item__description">
       <p>The Skyblock server features a survival world focused around a floating island in the sky with nothing but a tree and some grass. Players are able to build and collaborate on their own or with others to progress and make their islands bigger and better. Much like the Survival server, we offer many custom crafting recipes all in a semi-vanilla environment, without the world generation, of course.</p>
-      <a class="button button--secondary button--rounded button--lg" style="background-color: #229954" href="{{ site.baseurl}}/servers/skyblock">Learn more about skyblock</a>
+      <a class="button button--secondary button--rounded button--lg" style="background-color: #229954" href="{{ site.baseurl}}/servers/skyblock">Learn more about Skyblock</a>
     </div>
   </div>
 </div>
