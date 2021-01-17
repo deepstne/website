@@ -4,4 +4,8 @@ title: Survival server
 permalink: /servers/survival
 ---
 
-Placeholder for the survival server page.
+<iframe width="420" height="315"
+src="https://youtube.com/mgqmmrZ2qc8">
+</iframe>
+Try it Yourself »
+
