@@ -1,11 +1,11 @@
 header:
   - title:      Home
   - title:      About
+    url:        /about
   - title:      Forum
     url:        /forum
   - title:      Discord
     url:        /discord
-    url:        /about
   - title:      Rules
     url:        /rules
   - title:      Servers
