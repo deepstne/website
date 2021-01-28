@@ -51,8 +51,8 @@ Detailed rank information can be viewed on the server's [help center](../hc).
   <div class="grid grid--py-3">
     <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/bemoseemo"><img src="https://crafatar.com/renders/head/8a43ac7dc23948c9872ca09060704235?&amp;overlay" alt="Bemoseemo" width="108"></a></h3></div></div>
     <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://crafatar.com/renders/head/dc7bd3dafd534ab3806b89d4d93aa72e?&amp;overlay" alt="Phenomality" width="108"></a></h3></div></div>
-    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Lukyplex"><img src="https://crafatar.com/renders/head/8d26d7faf62243cebf19155a1d8488d9?&amp;overlay" alt="NotCheetahh" width="108"></a></h3></div></div>
-    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/bearthedoggo"><img src="https://crafatar.com/renders/head/f6f26418d9a14463a95d48c493ecc302?&amp;overlay" alt="NotCheetahh" width="108"></a></h3></div></div>
+    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Lukyplex"><img src="https://crafatar.com/renders/head/8d26d7faf62243cebf19155a1d8488d9?&amp;overlay" alt="Luckyplex" width="108"></a></h3></div></div>
+    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/bearthedoggo"><img src="https://crafatar.com/renders/head/f6f26418d9a14463a95d48c493ecc302?&amp;overlay" alt="bearthedoggo" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
