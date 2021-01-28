@@ -23,7 +23,7 @@ Executives are responsible for the server's operations. They focus on maintainin
 <div class="grid-container">
   <div class="grid grid--py-3">
     <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/root"><img src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?&amp;overlay" alt="Tube_of_Kitkats" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Xen"><img src="https://crafatar.com/renders/head/ab9aee273b3748be804c6810d5c0a643?&amp;overlay" alt="XenVoltz" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Xen"><img src="https://crafatar.com/renders/head/a6165b3611634d98be74ec1c50aef789?&amp;overlay" alt="XenVoltz" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
@@ -36,7 +36,7 @@ Developers are responsible for writing and maintaining custom applications and s
   <div class="grid grid--py-3">
     <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://crafatar.com/renders/head/ce74e1fa867041ddbfc89c0c02a8472a?&amp;overlay" alt="Mr_Muffin_" width="108"></a></h3></div></div>
     <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Kierxnnn"><img src="https://crafatar.com/renders/head/a6165b3611634d98be74ec1c50aef789?&amp;overlay" alt="ughItsKieran" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Kierxnnn"><img src="https://crafatar.com/renders/head/a6165b3611634d98be74ec1c50aef789?&amp;overlay" alt="Kierxnnn" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
