@@ -8,7 +8,7 @@ article_header:
   type: overlay
   theme: dark
   background_image:
-    src: https://github.com/novelmc-zz/website/blob/master/assets/img/hero/4R2kvopvIy.png?raw=true
+    src: ../assets/images/hero.png
 ---
 
 ## Getting creative wheels spinning
