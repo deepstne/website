@@ -1,7 +1,7 @@
 ---
 layout: home
 title: The network made for you.
-excerpt: The Darkstone Minecraft Network for Java and Bedrock edition. It's the network made for you.
+excerpt: The Darkstone Minecraft Network for Java and Bedrock edition masterfully made to satisfy everyone's spontaneously creative side.
 permalink: /
 mode: immersive
 article_header:
