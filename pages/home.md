@@ -18,3 +18,5 @@ We've set out to create a modern, supportive, and secure environment for everyon
 
 ## What's the latest?
 Understand how we're moving to be better as a server and as a creative group by keeping yourself updated, and by keeping tabs on how to remain involved.
+
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/darkst.one/embed" width="728" height="90"></iframe>
