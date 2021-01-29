@@ -6,7 +6,9 @@ permalink: /rules
 
 We have a set of five, general and memorable rules that all players should know when talking with others and being on our platforms. These rules are designed to keep everyone polite, respectful, but most importantly, safe. By joining any of our platforms you agree that you will follow these rules.
 
-These "big five" community guidelines are not all-inclusive, but are for our players on how to judge their conduct. An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc).
+These "big five" community guidelines are not all-inclusive, but are for our players on how to judge their conduct. An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc/rules-and-regulations#punishment-guidelines).
+
+<a class="button button--outline-primary button--rounded" href="{{ site.baseurl}}/hc/rules-and-regulations#punishment-guidelines">View the punishment guidelines</a>
 
 ## Golden rule
 
@@ -51,7 +53,7 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
   <summary>How can I report someone for not complying with staff members?</summary>
       <p>Here are the options given to our members if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a report on the forum.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -96,7 +98,7 @@ All players are deserving of respect, and should not be harmed, attacked, or tre
   <summary>How can I report someone for not being respectful of others?</summary>
       <p>Here are the options given to our members if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a report on the forum.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -126,8 +128,8 @@ The platforms offered that encourage collaboration and community should be respe
   <summary>What do we mean by the server?</summary>
       <p>The "server" refers to all community platforms that are official to UnraveledMC. This includes:</p>
         <ul>
-          <li>The in-game <a href="https://forum.unraveledmc.com/t/how-to-connect-to-the-server/475">Minecraft</a> server</li>
-          <li>The <a href="{{ site.baseurl }}/community">forum</a> community</li>
+          <li>The in-game <a href="{{ site.baseurl }}/hc/getting-started#joining-the-network">Minecraft</a> server</li>
+          <li>The <a href="{{ site.baseurl }}/forum">forum</a> community</li>
           <li>The <a href="{{ site.baseurl }}/discord">Discord</a> guild</li>
         </ul>
 </details>
@@ -136,7 +138,7 @@ The platforms offered that encourage collaboration and community should be respe
   <summary>How can I report someone for not being respectful of the server?</summary>
       <p>Here are the options given to our members if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a report on the forum.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
