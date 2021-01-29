@@ -6,7 +6,7 @@ permalink: /rules
 
 We have a set of five, general and memorable rules that all players should know when talking with others and being on our platforms. These rules are designed to keep everyone polite, respectful, but most importantly, safe. By joining any of our platforms you agree that you will follow these rules.
 
-An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc).
+These "big five" community guidelines are not all-inclusive, but are for our players on how to judge their conduct. An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc).
 
 ## Golden rule
 
@@ -59,7 +59,7 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
 
 ## General rules
 
-### 1. Be respectful of others.
+### 2. Be respectful of others.
 All players are deserving of respect, and should not be harmed, attacked, or treated unfairly on any platform.
 
 <details>
@@ -102,7 +102,7 @@ All players are deserving of respect, and should not be harmed, attacked, or tre
         </ul>
 </details>
 
-### 2. Be respectful of the server.
+### 3. Be respectful of the server.
 The platforms offered that encourage collaboration and community should be respected so everyone can enjoy using them and should not be attacked or defaced.
 
 <details>
@@ -142,7 +142,7 @@ The platforms offered that encourage collaboration and community should be respe
         </ul>
 </details>
 
-### 3. Avoid cheating and exploiting.
+### 4. Avoid cheating and exploiting.
 Our players should experience an environment that is free from cheating or abuse of exploits.
 
 <details>
