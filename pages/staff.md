@@ -28,7 +28,7 @@ Executives are responsible for the server's operations. They focus on maintainin
 </div>
 </center>
 
-Developers are responsible for writing and maintaining custom applications and software that the server utilizes, such as our [custom Discord bot](https://github.com/darkstne/bot). They are also responsible for the server's backend, to keep software up to date, maintain the webserver and the various running applications on the server's virtual machine. They are granted every permission on the server to adequately test new plugins. They are given every permission and privilege Senior Mods also have.
+Developers are responsible for writing and maintaining custom applications and software that the server utilizes, such as our [custom Discord bot](https://github.com/darkstne/bot). They are also responsible for the server's backend, to keep software up to date, maintain the webserver and the various running applications on the server's virtual machine. They are granted every permission on the server to adequately test new plugins. They are given every permission and privilege Admins also have.
 
 <h3 style="line-height: 2.5rem; border-bottom: 3px #E67D21 solid;">Admins</h3>
 <center>
