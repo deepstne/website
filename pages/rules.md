@@ -179,7 +179,7 @@ Our players should experience an environment that is free from cheating or abuse
         </ul>
 </details>
 
-### 4. Remain secure.
+### 5. Remain secure.
 Our players should be able to play in a safe and secure place without fear of their account being stolen.
 
 <details>
