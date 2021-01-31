@@ -29,6 +29,9 @@ We've set out to create a modern, supportive, and secure environment for everyon
 ## Rockin' and rollin'
 Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Everything else is in your hands to make use of our latest features and cosmetics. It's what we do best.
 
+<div class="grid-container">
+  <div class="grid grid--py-3">
+  <div class="cell cell--6">
 <div class="item">
   <div class="item__image">
     <img class="image image--sm" src="{{ site.baseurl }}/assets/images/java.png"/>
@@ -43,9 +46,8 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
     </div>
   </div>
 </div>
-
-<br>
-
+</div>
+<div class="cell cell--6">
 <div class="item">
   <div class="item__image">
     <img class="image image--sm" src="{{ site.baseurl }}/assets/images/bedrock.png"/>
@@ -59,4 +61,6 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
       <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-bedrock">Connect using Bedrock</a>
     </div>
   </div>
+</div>
+</div>
 </div>
