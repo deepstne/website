@@ -31,11 +31,32 @@ Supporting Minecraft 1.16.5 up until version 1.4.7. We offer:
 ## Rockin' and rollin'
 Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Everything else is in your hands to make use of our latest features and cosmetics. It's what we do best.
 
-<div class="grid-container">
-  <div class="grid grid--py-3">
-    <div class="cell cell--2"><div><h3><a href="{{ site.baseurl/hc/getting-started#joining-the-network}}"><img src="{{ site.baseurl }}/assets/images/java.png" alt="Minecraft Java Edition" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><p>Java v1.16.5 to 1.4.7.</p></div></div>
-    <div class="cell cell--2"><div><h3><a href="{{ site.baseurl/hc/getting-started#joining-the-network}}"><img src="{{ site.baseurl }}/assets/images/bedrock.png" alt="Minecraft Bedrock Edition" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><p>Bedrock v1.16.201</p></div></div>
+<div class="item">
+  <div class="item__image">
+    <a href="{{ site.baseurl/hc/getting-started#joining-the-network }}"><img class="image image--sm" src="{{ site.baseurl }}/assets/images/java.png"/></a>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h3>Java Edition</h3>
+    </div>
+    <div class="item__description">
+      <p>Supporting Java version 1.16.5 to 1.4.7</p>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="item">
+  <div class="item__image">
+    <a href="{{ site.baseurl/hc/getting-started#joining-on-bedrock }}"><img class="image image--sm" src="{{ site.baseurl }}/assets/images/bedrock.png"/></a>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h3>Bedrock Edition</h3>
+    </div>
+    <div class="item__description">
+      <p>Supporting Bedrock version 1.16.201</p>
+    </div>
   </div>
 </div>
