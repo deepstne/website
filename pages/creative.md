@@ -69,7 +69,7 @@ As one of our member-only worlds, members of the public must apply for building 
 <h2 style="line-height: 2.5rem; border-bottom: 3px #00a8a8 solid;">Management</h2>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--8"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
-    <div class="cell cell--8"><div><p>cxnema is Creative's current <a href=" {{ site.baseurl}}/hc/titles-and-honors#operations-director>Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
+    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><p>cxnema is Creative's current <a href="{{ site.baseurl}}/hc/titles-and-honors#operations-director">Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
   </div>
 </div>
