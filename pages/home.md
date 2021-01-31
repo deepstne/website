@@ -48,6 +48,7 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
       </div>
     </div>
   </div>
+ </div>
 </div>
 
 ## Nothing but features
