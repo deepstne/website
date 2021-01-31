@@ -11,6 +11,44 @@ article_header:
     src: ../assets/images/hero.png
 ---
 
+## Rockin' and rollin'
+Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Everything else is in your hands to make use of our latest features and cosmetics. It's what we do best.
+
+<div class="grid-container">
+  <div class="grid grid--py-3">
+    <div class="cell cell--6">
+      <div class="item">
+        <div class="item__image">
+          <img class="image image--sm" src="{{ site.baseurl }}/assets/images/java.png"/>
+        </div>
+        <div class="item__content">
+          <div class="item__header">
+            <h3>Java Edition</h3>
+          </div>
+        <div class="item__description">
+          <p>Supporting Java version 1.16.5 to 1.4.7</p>
+          <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-the-network">Connect using Java</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="cell cell--6">
+    <div class="item">
+      <div class="item__image">
+        <img class="image image--sm" src="{{ site.baseurl }}/assets/images/bedrock.png"/>
+      </div>
+      <div class="item__content">
+        <div class="item__header">
+          <h3>Java Edition</h3>
+        </div>
+      <div class="item__description">
+        <p>Supporting Java version 1.16.5 to 1.4.7</p>
+        <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-bedrock">Connect using Bedrock</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Nothing but features
 Supporting Minecraft 1.16.5 up until version 1.4.7. We offer:
 * Full Minecraft Bedrock support. Really. Join using [your phone](../hc/getting-started#joining-on-bedrock) and play with Minecraft Java Edition players in real time.
@@ -25,42 +63,3 @@ How we work, collaborate, provide support, and go about making changes is founde
 > The network made for you.
 
 We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active player in the community.
-
-## Rockin' and rollin'
-Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Everything else is in your hands to make use of our latest features and cosmetics. It's what we do best.
-
-<div class="grid-container">
-  <div class="grid grid--py-3">
-  <div class="cell cell--6">
-<div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="{{ site.baseurl }}/assets/images/java.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h3>Java Edition</h3>
-    </div>
-    <div class="item__description">
-      <p>Supporting Java version 1.16.5 to 1.4.7</p>
-      <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-the-network">Connect using Java</a>
-    </div>
-  </div>
-</div>
-</div>
-<div class="cell cell--6">
-<div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="{{ site.baseurl }}/assets/images/bedrock.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h3>Bedrock Edition</h3>
-    </div>
-    <div class="item__description">
-      <p>Supporting Bedrock version 1.16.201</p>
-      <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-bedrock">Connect using Bedrock</a>
-    </div>
-  </div>
-</div>
-</div>
-</div>
