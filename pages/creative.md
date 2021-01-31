@@ -10,6 +10,14 @@ All of our players, member or not, are given access to an advanced suite of Worl
 
 We usually use a [grass block](https://minecraft.gamepedia.com/Grass_Block) from the game to identify the Creative server.
 
+## Management
+<div class="grid-container">
+  <div class="grid grid--py-3">
+    <div class="cell cell--2"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><p>cxnema is Creative's current <a href="{{ site.baseurl}}/hc/titles-and-honors#operations-director">Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
+  </div>
+</div>
+
 ## Worlds
 We offer a total of eight different worlds for creativity. Each of them has their own purpose and intended use for our players to take advantage of their creative permissions.
 
@@ -65,11 +73,3 @@ As one of our member-only worlds, members of the public must apply for building 
 > Note: Members are required to follow more strict server rules when it comes to editing others' builds and griefing. Read the rules of membership status on our [help center](../hc).
 
 <a class="button button--outline-primary button--rounded" href="{{ site.baseurl}}/#/">Apply for membership</a>
-
-### Management
-<div class="grid-container">
-  <div class="grid grid--py-3">
-    <div class="cell cell--2"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><p>cxnema is Creative's current <a href="{{ site.baseurl}}/hc/titles-and-honors#operations-director">Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
-  </div>
-</div>
