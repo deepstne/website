@@ -6,7 +6,7 @@ permalink: /servers/creative
 
 The Creative server is our answer for a proper place to create and to collaborate in the Creative gamemode.
 
-All of our players, member or not, are given access to an advanced suite of WorldEdit commands, and multiple public worlds to build and explore. Both of our plotworlds and "Sandbox" superflat testing world are available and geared toward the public.
+All of our players, member or not, are given access to an advanced suite of WorldEdit commands, and multiple public worlds to build and explore. Both of our plotworlds, and "Sandbox" superflat testing world, are available and geared toward the public.
 
 We usually use a [grass block](https://minecraft.gamepedia.com/Grass_Block) from the game to identify the Creative server.
 
