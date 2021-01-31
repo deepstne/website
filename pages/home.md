@@ -12,7 +12,7 @@ article_header:
 ---
 
 ## Rockin' and rollin'
-Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Everything else is in your hands to make use of our latest features and cosmetics. It's what we do best.
+Ready to get started? It's easy. Open up Minecraft, enter in our address, and get started playing on the network that was made for you. Everything else is in your hands to make use of our latest features and cosmetics. This is what we do best, and we're really good at it.
 
 <div class="grid-container">
   <div class="grid grid--py-3">
@@ -26,7 +26,7 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
             <h3>Java Edition</h3>
           </div>
           <div class="item__description">
-            <p>Supporting Java version 1.16.5 to 1.4.7</p>
+            <p>Supporting Java version 1.16.5 to 1.4.7. The "traditional" Minecraft for your PC and Mac that you know and love.</p>
             <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-the-network">Connect using Java</a>
           </div>
         </div>
@@ -42,7 +42,7 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
           <h3>Bedrock Edition</h3>
         </div>
         <div class="item__description">
-          <p>Supporting Bedrock version 1.16.201</p>
+          <p>Supporting Bedrock version 1.16.201. The Minecraft that runs on your phone from your app store of choice.</p>
           <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-bedrock">Connect using Bedrock</a>
         </div>
       </div>
