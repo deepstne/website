@@ -25,12 +25,12 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
           <div class="item__header">
             <h3>Java Edition</h3>
           </div>
-        <div class="item__description">
-          <p>Supporting Java version 1.16.5 to 1.4.7</p>
-          <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-the-network">Connect using Java</a>
+          <div class="item__description">
+            <p>Supporting Java version 1.16.5 to 1.4.7</p>
+            <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-the-network">Connect using Java</a>
+          </div>
         </div>
       </div>
-    </div>
   </div>
   <div class="cell cell--6">
     <div class="item">
@@ -39,11 +39,12 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
       </div>
       <div class="item__content">
         <div class="item__header">
-          <h3>Java Edition</h3>
+          <h3>Bedrock Edition</h3>
         </div>
-      <div class="item__description">
-        <p>Supporting Java version 1.16.5 to 1.4.7</p>
-        <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-bedrock">Connect using Bedrock</a>
+        <div class="item__description">
+          <p>Supporting Bedrock version 1.16.201</p>
+          <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-bedrock">Connect using Bedrock</a>
+        </div>
       </div>
     </div>
   </div>
