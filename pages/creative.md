@@ -11,7 +11,7 @@ All of our players, member or not, are given access to an advanced suite of Worl
 We usually use a [grass block](https://minecraft.gamepedia.com/Grass_Block) from the game to identify the Creative server.
 
 ## Worlds
-We offer a total of eight different worlds for creativity. Each of them has their own purpose and intended use for our members to take advantage of their creative permissions.
+We offer a total of eight different worlds for creativity. Each of them has their own purpose and intended use for our players to take advantage of their creative permissions.
 
 ### Sandbox
 "Sandbox" is the name we've given to our superflat, public testing world. If you're familiar with free-op style servers, this is our "flatlands" world for fun and unserious building.
@@ -22,7 +22,7 @@ Due to the nature of the sandbox, this world is automatically reset and wiped cl
 The sandbox is open to the public and no member application is necessary. On the Creative server you may run `/public` or `/sandbox` in order to access the world.
 
 ### Plot worlds
-Our plot worlds are filled with square plots that our members can claim. It's like the sandbox but sectioned off, and nobody can edit your claims unless you give them access.
+Our plot worlds are filled with square plots that our players can claim. It's like the sandbox but sectioned off, and nobody can edit your claims unless you give them access.
 
 The plot worlds on the server come in two sizes, 85x85 and 251x251. We run the [PlotSquared](https://github.com/IntellectualSites/PlotSquared) plugin for plot management.
 
@@ -65,3 +65,11 @@ As one of our member-only worlds, members of the public must apply for building 
 > Note: Members are required to follow more strict server rules when it comes to editing others' builds and griefing. Read the rules of membership status on our [help center](../hc).
 
 <a class="button button--outline-primary button--rounded" href="{{ site.baseurl}}/#/">Apply for membership</a>
+
+<h2 style="line-height: 2.5rem; border-bottom: 3px #00a8a8 solid;">Management</h2>
+<div class="grid-container">
+  <div class="grid grid--py-3">
+    <div class="cell cell--8"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
+    <div class="cell cell--8"><div><p>cxnema is Creative's current <a href=" {{ site.baseurl}}/hc/titles-and-honors#operations-director>Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
+  </div>
+</div>

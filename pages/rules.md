@@ -8,8 +8,6 @@ We have a set of five, general and memorable rules that all players should know 
 
 These "big five" community guidelines are not all-inclusive, but are for our players on how to judge their conduct. An in-depth punishment guidelines that outlines general punishment lengths for various offenses against our rules can be viewed on the server's [help center](../hc/rules-and-regulations#punishment-guidelines).
 
-<a class="button button--outline-primary button--rounded" href="{{ site.baseurl}}/hc/rules-and-regulations#punishment-guidelines">View the punishment guidelines</a>
-
 ## Golden rule
 
 ### 1. Comply with staff members
@@ -17,7 +15,7 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
 
 <details>
   <summary>Why have this rule?</summary>
-      <p>The goal of staff members is to keep the community a safe place and promote an enjoyable experience for all of our members. When everyone cooperates with staff members, they are better able to keep the community secure.</p>
+      <p>The goal of staff members is to keep the community a safe place and promote an enjoyable experience for all of our players. When everyone cooperates with staff members, they are better able to keep the community secure.</p>
       <p>Staff members will never ask for personal information or any credentials to your account. File a <a href="{{ site.baseurl }}/report">report</a> immediately if this happens.</p>
 </details>
 
@@ -96,7 +94,7 @@ All players are deserving of respect, and should not be harmed, attacked, or tre
 
 <details>
   <summary>How can I report someone for not being respectful of others?</summary>
-      <p>Here are the options given to our members if they need to file a report.</p>
+      <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
           <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a report on the forum.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
@@ -171,7 +169,7 @@ Our players should experience an environment that is free from cheating or abuse
 
 <details>
   <summary>How can I report someone for cheating or exploiting?</summary>
-      <p>Here are the options given to our members if they need to file a report.</p>
+      <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
           <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
@@ -202,12 +200,12 @@ Our players should be able to play in a safe and secure place without fear of th
 <details>
   <summary>What do we mean by an account?</summary>
       <p>Your <a href="https://minecraft.net">Minecraft</a> account is yours that controls your profile. Your account on our forum is yours as well. Do not let other people access it, and regularly change your account password.</p>
-      <p>Members should notify an Executive before making another account if they intend to do so. Anything that violates United States law will be notified to proper authorities; we are based in the U.S. and work within its laws.</p>
+      <p>Players should notify an Executive before making another account if they intend to do so. Anything that violates United States law will be notified to proper authorities; we are based in the U.S. and work within its laws.</p>
 </details>
 
 <details>
   <summary>How can I report someone for not respecting security rules?</summary>
-      <p>Here are the options given to our members if they need to file a report.</p>
+      <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
           <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
