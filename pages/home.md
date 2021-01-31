@@ -33,7 +33,9 @@ Ready to get started? It's easy. Open up Minecraft and enter `darkst.one`. Every
 
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--2"><div><h3><a href="{{ site.baseurl/hc/getting-started#joining-the-network}}"><img src="{{ site.baseurl }}/images/java.png" alt="Minecraft Java Edition" width="108"></a></h3></div></div>
+    <div class="cell cell--2"><div><h3><a href="{{ site.baseurl/hc/getting-started#joining-the-network}}"><img src="{{ site.baseurl }}/assets/images/java.png" alt="Minecraft Java Edition" width="108"></a></h3></div></div>
     <div class="cell cell--6"><div><p>Java v1.16.5 to 1.4.7.</p></div></div>
+    <div class="cell cell--2"><div><h3><a href="{{ site.baseurl/hc/getting-started#joining-the-network}}"><img src="{{ site.baseurl }}/assets/images/bedrock.png" alt="Minecraft Bedrock Edition" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><p>Bedrock v1.16.201</p></div></div>
   </div>
 </div>
