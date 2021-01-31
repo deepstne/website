@@ -65,6 +65,7 @@
   @include align-items(center);
   & > svg {
     max-height: 30px;
+    max-width: 2312px;
     margin-right: map-get($spacers, 3);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
