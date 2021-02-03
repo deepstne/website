@@ -226,14 +226,17 @@ defaults:
       # lightbox: true
   ## privacy
   - scope:
-      path: "privacy"
+      path: "app-system"
     values:
       layout: article
+      nav_key: das
+      sidebar:
+        nav: app-system
       license: false
       aside:
         toc: true
       show_edit_on_github: false
-      show_date: false
+      show_date: true
       # lightbox: true
 
 ## => Plugins

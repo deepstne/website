@@ -25,6 +25,7 @@ Please read this privacy notice carefully as it will help you understand what we
 8. [Controls for do-not-track features](#8-controls-for-do-not-track-features)
 9. [Do California residents have specific privacy rights?](#9-do-california-residents-have-specific-privacy-rights)
 10. [Do we make updates to this notice?](#10-do-we-make-updates-to-this-notice)
+11. [11. How can you contact us about this notice?](#11-how-can-you-contact-us-about-this-notice)
 
 ## 1. What information do we collect?
 In short: We collect information that you provide to us.

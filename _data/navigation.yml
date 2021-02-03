@@ -28,6 +28,15 @@ help-center:
   - title:      For builders
   - title:      For staff
 
+app-system:
+  - title:      Introduction
+    children:
+      - title:  Getting started
+        url:    /apply
+  - title:      Rank applications
+  - title:      Title applications
+  - title:      Reporting and appeals
+
 layouts:
   - title: Layouts
     children:
