@@ -223,50 +223,6 @@ defaults:
         toc: true
       show_edit_on_github: false
       show_date: true
-      lightbox: true
-  ## rules
-  - scope:
-      path: "rules"
-    values:
-      layout: article
-      license: false
-      aside:
-        toc: false
-      show_edit_on_github: false
-      show_date: false
-      # lightbox: true
-  ## servers
-  - scope:
-      path: "servers"
-    values:
-      layout: article
-      license: false
-      aside:
-        toc: false
-      show_edit_on_github: false
-      show_date: false
-      # lightbox: true
-  ## staff
-  - scope:
-      path: "staff"
-    values:
-      layout: article
-      license: false
-      aside:
-        toc: false
-      show_edit_on_github: false
-      show_date: false
-      # lightbox: true
-  ## privacy
-  - scope:
-      path: "privacy"
-    values:
-      layout: article
-      license: false
-      aside:
-        toc: true
-      show_edit_on_github: false
-      show_date: false
       # lightbox: true
 
 ## => Plugins
