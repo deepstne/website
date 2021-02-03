@@ -40,10 +40,10 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
   <summary>Who is a staff member?</summary>
       <p>All staff members can be located by the prefix before their name:</p>
         <ul>
-          <li>Executives will have a <span style="color: #515a5a">[</span><span style="color: #cb4335">E</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #e74c3c">light red</span> name.</li>
-          <li>Developers will have a <span style="color: #515a5a">[</span><span style="color: #652d90">D</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #af7ac5">light purple</span> name.</li>
-          <li>Admins will have a <span style="color: #515a5a">[</span><span style="color: #f7941d">A</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #f4d03f">yellow</span> name.</li>
-          <li>Mods will have a <span style="color: #515a5a">[</span><span style="color: #1e8449">M</span><span style="color: #515a5a">]</span> prefix and a <span style="color: #3AB54A">lime green</span> name.</li>
+          <li>Executives will have a <span class="tag-bracket">[</span><span class="exec-primary">E</span><span class="tag-bracket">]</span> prefix and a <span class="exec-secondary">light red</span> name.</li>
+          <li>Developers will have a <span class="tag-bracket">[</span><span class="dev-primary">D</span><span class="tag-bracket">]</span> prefix and a <span class="dev-secondary">light purple</span> name.</li>
+          <li>Admins will have a <span class="tag-bracket">[</span><span class="admin-primary">A</span><span class="tag-bracket">]</span> prefix and a <span class="admin-secondary">yellow</span> name.</li>
+          <li>Mods will have a <span class="tag-bracket">[</span><span class="mod-primary">M</span><span class="tag-bracket">]</span> prefix and a <span class="mod-secondary">lime green</span> name.</li>
         </ul>
 </details>
 
@@ -152,7 +152,7 @@ Our players should experience an environment that is free from cheating or abuse
 
 <details>
   <summary>What exactly does this rule mean?</summary>
-      <blockquote>Note: All forms of cheating or exploiting are strictly banned on the <strong><span style="color: #cb4335">Survival</span></strong> server. The mentioned limits on hacks or hacked clients are for the <strong><span style="color: #00a8a8">Creative</span></strong> server specifically.</blockquote>
+      <blockquote>Note: All forms of cheating or exploiting are strictly banned on the <span class="survival">Survival</span> server. The mentioned limits on hacks or hacked clients are for the <span class="creative">Creative</span> server specifically.</blockquote>
       <p>All of our players should have access to the same advantages as everyone else. Specifically, avoid the following:</p>
         <ul>
           <li>Using hacked clients to fight or compete</li>
