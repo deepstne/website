@@ -18,10 +18,10 @@ help-center:
     children:
       - title:  Getting started
         url:    /hc/getting-started
-      - title:   Content moderation
-        url:    /hc/content-moderation
       - title:  Rules and regulations
         url:    /hc/rules-and-regulations
+      - title:   Content moderation
+        url:    /hc/content-moderation
       - title:   Titles and honors
         url:    /hc/titles-and-honors
   - title:      For members
