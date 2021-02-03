@@ -36,6 +36,7 @@ app-system:
       - title:  Getting started
         url:    /apply
   - title:      Rank applications
+    children:
       - title:  Member application
         url:    /das/member-app
   - title:      Title applications
