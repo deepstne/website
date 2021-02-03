@@ -6,8 +6,6 @@ header:
     url:        /rules
   - title:      Servers
     url:        /servers
-  - title:      Apply
-    url:        /apply
   - title:      Support
     url:        /hc/getting-started
     key:        support
@@ -29,18 +27,6 @@ help-center:
   - title:      For members
   - title:      For builders
   - title:      For staff
-
-app-system:
-  - title:      Introduction
-    children:
-      - title:  Getting started
-        url:    /apply
-  - title:      Rank applications
-    children:
-      - title:  Member application
-        url:    /das/member-app
-  - title:      Title applications
-  - title:      Reporting and appeals
 
 layouts:
   - title: Layouts
