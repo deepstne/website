@@ -226,7 +226,7 @@ defaults:
       lightbox: true
   ## rules
   - scope:
-      path: ""
+      path: "rules"
     values:
       layout: article
       license: false
@@ -254,6 +254,17 @@ defaults:
       license: false
       aside:
         toc: false
+      show_edit_on_github: false
+      show_date: false
+      # lightbox: true
+  ## privacy
+  - scope:
+      path: "privacy"
+    values:
+      layout: article
+      license: false
+      aside:
+        toc: true
       show_edit_on_github: false
       show_date: false
       # lightbox: true
