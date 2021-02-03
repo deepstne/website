@@ -36,6 +36,8 @@ app-system:
       - title:  Getting started
         url:    /apply
   - title:      Rank applications
+      - title:  Member application
+        url:    /das/member-app
   - title:      Title applications
   - title:      Reporting and appeals
 
