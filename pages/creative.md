@@ -55,7 +55,7 @@ We call our superflat, member-only city build world "Rhodesia" that is designed 
 You must have applied and been approved for membership before being able to access Rhodesia. Once approved, on the Creative server you may run `/private` or `/rhodesia` in order to access the world.
 
 #### How do I get started?
-As one of our member-only worlds, members of the public must apply for building rights in Rhodesia. You can learn more about the perks,  expectations, and application instructions on becoming a server member by visting our [hekp center](../hc/titles-and-honors#server-membership)
+As one of our member-only worlds, members of the public must apply for building rights in Rhodesia. You can learn more about the perks,  expectations, and application instructions on becoming a server member by visting our [help center](../hc/titles-and-honors#server-membership)
 
 ### Moesia
 We call the vanilla-style overworld "Moesia" with vanilla terrain and village generation. Much like Rhodesia, our members can also establish towns and cities, and shape the world to their liking. There isn't a protection plugin here either, and members manage their own claims.
@@ -64,4 +64,4 @@ We call the vanilla-style overworld "Moesia" with vanilla terrain and village ge
 You must have applied and been approved for membership before being able to access Moesia. Once approved, on the Creative server you may run `/private` or `/moesia` in order to access the world.
 
 #### How do I get started?
-As one of our member-only worlds, members of the public must apply for building rights in Rhodesia. You can learn more about the perks,  expectations, and application instructions on becoming a server member by visting our [hekp center](../hc/titles-and-honors#server-membership)
+As one of our member-only worlds, members of the public must apply for building rights in Rhodesia. You can learn more about the perks,  expectations, and application instructions on becoming a server member by visting our [help center](../hc/titles-and-honors#server-membership)
