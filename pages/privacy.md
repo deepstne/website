@@ -15,16 +15,16 @@ This privacy notice applies to all information collected through our Services (w
 Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
 
 ## Table of Contents
-1. What information do we collect?
-2. How do we use your information?
-3. Will your information be shared with anyone?
-4. Is your information transferred internationally?
-5. How long do we keep your information?
-6. How do we keep your information safe?
-7. What are your privacy rights?
-8. Controls for do-not-track features
-9. Do California residents have specific privacy rights?
-10. DO we make updates to this notice?
+1. [What information do we collect?](#1-what-information-do-we-collect)
+2. [How do we use your information?](#2-how-do-we-use-your-information)
+3. [Will your information be shared with anyone?](#3-will-your-information-be-shared-with-anyone)
+4. [Is your information transferred internationally?](#4-is-your-information-transferred-internationally)
+5. [How long do we keep your information?](#5-how-long-do-we-keep-your-information)
+6. [How do we keep your information safe?](#6-how-do-we-keep-your-information-safe)
+7. [What are your privacy rights?](#7-what-are-your-privacy-rights)
+8. [Controls for do-not-track features](#8-controls-for-do-not-track-features)
+9. [Do California residents have specific privacy rights?](#9-do-california-residents-have-specific-privacy-rights)
+10. [Do we make updates to this notice?](#10-do-we-make-updates-to-this-notice)
 
 ## 1. What information do we collect?
 In short: We collect information that you provide to us.
