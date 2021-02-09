@@ -1,7 +1,20 @@
----
+<!-- ---
 layout: article
 title: Creative server
 permalink: /servers/creative
+--- -->
+
+---
+layout: home
+title: There's so much more to see.
+excerpt: The Darkstone Minecraft Network for Java and Bedrock edition. It's the network made for you.
+permalink: /
+mode: immersive
+article_header:
+  type: overlay
+  theme: dark
+  background_image:
+    src: ../assets/images/hero.png
 ---
 
 The Creative server is our answer for a proper place to create and to collaborate in the Creative gamemode.
