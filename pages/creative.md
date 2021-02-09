@@ -8,7 +8,7 @@ permalink: /servers/creative
 layout: home
 title: There's so much more to see.
 excerpt: The Darkstone Minecraft Network for Java and Bedrock edition. It's the network made for you.
-permalink: /
+permalink: /servers/creative
 mode: immersive
 article_header:
   type: overlay
