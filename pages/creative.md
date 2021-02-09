@@ -1,9 +1,3 @@
-<!-- ---
-layout: article
-title: Creative server
-permalink: /servers/creative
---- -->
-
 ---
 layout: home
 title: There's so much more to see.
