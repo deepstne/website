@@ -15,6 +15,7 @@ ops-uuid: 15fb6dd1642e4a619c3b390eb3e551a9
 ops-forum: cxnema
 ---
 
+## There's a server for that
 The Creative server is our answer for a proper place to create and to collaborate in the Creative gamemode.
 
 All of our players, member or not, are given access to an advanced suite of WorldEdit commands, and multiple public worlds to build and explore. Both of our plotworlds, and "Sandbox" superflat testing world, are available and geared toward the public.

@@ -4,7 +4,7 @@ title: Privacy policy
 permalink: /privacy
 ---
 
-Last updated February 3rd, 2020
+Last updated February 9th, 2020
 
 Thank you for choosing to be part of our community at Darkstone (“we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at [help@darkst.one](mailto:help@darkst.one).
 
@@ -25,7 +25,7 @@ Please read this privacy notice carefully as it will help you understand what we
 8. [Controls for do-not-track features](#8-controls-for-do-not-track-features)
 9. [Do California residents have specific privacy rights?](#9-do-california-residents-have-specific-privacy-rights)
 10. [Do we make updates to this notice?](#10-do-we-make-updates-to-this-notice)
-11. [11. How can you contact us about this notice?](#11-how-can-you-contact-us-about-this-notice)
+11. [How can you contact us about this notice?](#11-how-can-you-contact-us-about-this-notice)
 
 ## 1. What information do we collect?
 In short: We collect information that you provide to us.

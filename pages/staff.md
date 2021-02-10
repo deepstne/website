@@ -44,7 +44,7 @@ Developers are responsible for writing and maintaining custom applications and s
 
 Admins are the server's highest-ranking general moderators on the server. They are responsible for supervising the conduct of the server's Mods, issuing staff suspensions and permanently banning members who have broken the rules. In addition they are given Discord moderation abilities. They are given every permission and privilege Mods also have.
 
-Detailed rank information can be viewed on the server's [help center](../hc).
+Detailed rank information can be viewed on the server's [help center](../hc/content-moderation#admin).
 
 <h3 style="line-height: 2.5rem; border-bottom: 3px #2BCA70 solid;">Mods</h3>
 <center>
@@ -60,4 +60,4 @@ Detailed rank information can be viewed on the server's [help center](../hc).
 
 Mods are the server's general community moderators. They have access to moderation commands such as `/ban` and `/mute`, and have access to staff-only commands and permissions. They are also able to issue recommendations for permanent bans issued by Admins.
 
-Detailed rank information can be viewed on the server's [help center](../hc).
+Detailed rank information can be viewed on the server's [help center](../hc/content-moderation#mod).
