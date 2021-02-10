@@ -21,6 +21,8 @@ All of our players, member or not, are given access to an advanced suite of Worl
 
 We usually use a [grass block](https://minecraft.gamepedia.com/Grass_Block) from the game to identify the Creative server.
 
+## Management
+
 {%- include ops.html -%}
 
 ## Worlds
