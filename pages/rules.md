@@ -40,10 +40,10 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
   <summary>Who is a staff member?</summary>
       <p>All staff members can be located by the prefix before their name:</p>
         <ul>
-          <li>Executives will have a <span class="tag-bracket">[</span><span class="exec-primary">E</span><span class="tag-bracket">]</span> prefix and a <span class="exec-secondary">light red</span> name.</li>
-          <li>Developers will have a <span class="tag-bracket">[</span><span class="dev-primary">D</span><span class="tag-bracket">]</span> prefix and a <span class="dev-secondary">light purple</span> name.</li>
-          <li>Admins will have a <span class="tag-bracket">[</span><span class="admin-primary">A</span><span class="tag-bracket">]</span> prefix and a <span class="admin-secondary">yellow</span> name.</li>
-          <li>Mods will have a <span class="tag-bracket">[</span><span class="mod-primary">M</span><span class="tag-bracket">]</span> prefix and a <span class="mod-secondary">lime green</span> name.</li>
+          <li>Executives will have a <span class="tag-bracket">[</span><span class="exec-primary">EXV</span><span class="tag-bracket">]</span> prefix and a <span class="exec-secondary">light red</span> name.</li>
+          <li>Developers will have a <span class="tag-bracket">[</span><span class="dev-primary">DEV</span><span class="tag-bracket">]</span> prefix and a <span class="dev-secondary">light purple</span> name.</li>
+          <li>Admins will have a <span class="tag-bracket">[</span><span class="admin-primary">ADM</span><span class="tag-bracket">]</span> prefix and a <span class="admin-secondary">yellow</span> name.</li>
+          <li>Mods will have a <span class="tag-bracket">[</span><span class="mod-primary">MOD</span><span class="tag-bracket">]</span> prefix and a <span class="mod-secondary">lime green</span> name.</li>
         </ul>
 </details>
 
