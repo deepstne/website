@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: server
 title: There's so much more to see.
 excerpt: The Darkstone Minecraft Network for Java and Bedrock edition. It's the network made for you.
 permalink: /servers/creative
@@ -8,7 +8,11 @@ article_header:
   type: overlay
   theme: dark
   background_image:
-    src: ../assets/images/hero.png
+    src: ../assets/images/creative-hero.png
+server: Creative
+ops-username: cxnema
+ops-uuid: 15fb6dd1642e4a619c3b390eb3e551a9
+ops-forum: cxnema
 ---
 
 The Creative server is our answer for a proper place to create and to collaborate in the Creative gamemode.
@@ -18,12 +22,7 @@ All of our players, member or not, are given access to an advanced suite of Worl
 We usually use a [grass block](https://minecraft.gamepedia.com/Grass_Block) from the game to identify the Creative server.
 
 ## Management
-<div class="grid-container">
-  <div class="grid grid--py-3">
-    <div class="cell cell--2"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://crafatar.com/renders/head/15fb6dd1642e4a619c3b390eb3e551a9?&amp;overlay" alt="cxnema" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><p>cxnema is Creative's current <a href="{{ site.baseurl}}/hc/titles-and-honors#operations-director">Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
-  </div>
-</div>
+{%- include ops.html -%}
 
 ## Worlds
 We offer a total of eight different worlds for creativity. Each of them has their own purpose and intended use for our players to take advantage of their creative permissions.

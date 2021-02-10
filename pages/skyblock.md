@@ -1,7 +1,14 @@
 ---
-layout: article
-title: Skyblock server
+layout: server
+title: IMPORTANT TAGLINE
+excerpt: slogan
 permalink: /servers/skyblock
+mode: immersive
+article_header:
+  type: overlay
+  theme: dark
+  background_image:
+    src: ../assets/images/skyblock-hero.png
 ---
 
 It's like survival, but it's in the air. Oh, and there's no ground for you to fall on.
@@ -13,7 +20,7 @@ We usually use [oak leaves](https://minecraft.gamepedia.com/Leaves) from the gam
 ## Management
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--2"><div><h3><a href="https://talk.darkst.one/u/Kierxnnn"><img src="https://crafatar.com/renders/head/a6165b3611634d98be74ec1c50aef789?&amp;overlay" alt="Kierxnnn" width="108"></a></h3></div></div>
+    <div class="cell cell--2"><div><h3><a href="https://talk.darkst.one/u/Kierxnnn"><img src="https://cravatar.eu/helmhead/a6165b3611634d98be74ec1c50aef789" alt="Kierxnnn" width="108"></a></h3></div></div>
     <div class="cell cell--6"><div><p>Kierxnnn is Survival's current <a href="{{ site.baseurl}}/hc/titles-and-honors#operations-director">Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
   </div>
 </div>

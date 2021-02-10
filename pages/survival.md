@@ -1,7 +1,14 @@
 ---
-layout: article
-title: Survival server
+layout: server
+title: IMPORTANT TAGLINE
+excerpt: slogan
 permalink: /servers/survival
+mode: immersive
+article_header:
+  type: overlay
+  theme: dark
+  background_image:
+    src: ../assets/images/survival-hero.png
 ---
 
 The Survival server is the place we've made for our community to build and depend on each other in the game's survival mode.
@@ -13,7 +20,7 @@ We usually use a [crafting table](https://minecraft.gamepedia.com/Crafting_Table
 ## Management
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--2"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://crafatar.com/renders/head/ce74e1fa867041ddbfc89c0c02a8472a?&amp;overlay" alt="Mr_Muffin_" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><p>Mr_Muffin_ is Survival's current <a href="{{ site.baseurl}}/hc/titles-and-honors#operations-director">Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
+    <div class="cell cell--2"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://cravatar.eu/helmhead/ce74e1fa867041ddbfc89c0c02a8472a" alt="Saltonic" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><p>Saltonic is Survival's current <a href="{{ site.baseurl}}/hc/titles-and-honors#operations-director">Operations Director</a> and has been assigned to manage the server's feedback and development.</p></div></div>
   </div>
 </div>
