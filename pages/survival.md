@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: IMPORTANT TAGLINE
+title: Explore so much more.
 excerpt: slogan
 permalink: /servers/survival
 mode: immersive

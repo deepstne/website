@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: There's so much more to see.
-excerpt: The Darkstone Minecraft Network for Java and Bedrock edition. It's the network made for you.
+excerpt: Plan, create and inspire. Planning is optional. 
 permalink: /servers/creative
 mode: immersive
 article_header:
@@ -13,7 +13,12 @@ server: Creative
 ops-username: cxnema
 ops-uuid: 15fb6dd1642e4a619c3b390eb3e551a9
 ops-forum: cxnema
-feature-buttons: false
+feature-buttons: true
+feature-button-dark-title: Play now
+feature-button-dark-url: https://darkst.one/hc/getting-started#joining-the-network
+feature-button-color-title: About the worlds
+feature-button-color-url: https://darkst.one/servers/creative#worlds
+feature-button-color-hex: 00a8a8
 ---
 
 ## There's a server for that
