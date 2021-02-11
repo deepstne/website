@@ -148,10 +148,12 @@ layout: base
                   {%- endif -%}
                     {%- include article-info.html article=page semantic=false -%}
                     {%- include home-header.html article=page semantic=false -%}
-                    {%- if page.feature-buttons == true -%}
+                    {%- if page.excerpt -%}
                       <center><p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
+                    {%- endif -%}
+                    {%- if page.feature-buttons == true -%}
                       <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
-                      <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }}" href="{{ page.feature-button-color-url }}">{{ page.feature-color-dark-title }}</a></center>
+                      <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }}" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a></center>
                     {%- endif -%}
                     {%- if page.article_header.actions -%}
                       <ul class="menu">
