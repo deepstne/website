@@ -57,7 +57,10 @@ To put it simply, our goal is to provide our community with a place to express t
   </div>
 </div>
 
-## Network conduct
-For our members, we have a [server rules page](../rules) of the server's global community guidelines to help players conduct themselves with a few, short and memorable rules. This page is kept up-to-date with the latest changes to our guidelines, and we'll always let you know when something changes.
-
-An in-depth punishment guidelines that staff members use for specific offenses and circumstances on the server can be found by using the server's [help center](../hc/rules-and-regulations#punishment-guidelines).
+## Nothing but features
+Supporting Minecraft 1.16.5 up until version 1.4.7. We offer:
+* Full Minecraft Bedrock support. Really. Join using [your phone](../hc/getting-started#joining-on-bedrock) and play with Minecraft Java Edition players in real time.
+* Private and public worlds. Create and collaborate in worlds without protection and those with the highest walls you can get, all on the same server.
+* PvE that you want to play on. No learning how to use a protection plugin, our staff members got you covered. Survive and thrive without any need to figure out "how do I protect this again?"
+* A staff team that has your back. Most of us have years under our belts and have your issue covered. If one person doesn't know; we have two other members who do.
+* Hard work earns rewards. Those who go above and beyond for our community have [something to show for it](../hc/titles-and-honors), and you can too.

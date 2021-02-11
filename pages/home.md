@@ -10,8 +10,8 @@ article_header:
   background_image:
     src: ../assets/images/hero.png
 feature-buttons: true
-feature-button-dark-title: Community forum
-feature-button-dark-url: https://talk.darkst.one
+feature-button-dark-title: Get started in-game
+feature-button-dark-url: https://darkst.one/hc/getting-started#joining-on-java
 feature-button-color-title: Join the Discord
 feature-button-color-url: https://darkst.one/discord
 feature-button-color-hex: 7289DA
@@ -33,7 +33,7 @@ Ready to get started? It's easy. Open up Minecraft, enter in our address, and ge
           </div>
           <div class="item__description">
             <p>Supporting Java version 1.16.5 to 1.4.7. The "traditional" Minecraft for your PC and Mac that you know and love.</p>
-            <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-the-network">Connect using Java</a>
+            <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-java">Connect using Java</a>
           </div>
         </div>
       </div>
@@ -57,17 +57,10 @@ Ready to get started? It's easy. Open up Minecraft, enter in our address, and ge
  </div>
 </div>
 
-## Nothing but features
-Supporting Minecraft 1.16.5 up until version 1.4.7. We offer:
-* Full Minecraft Bedrock support. Really. Join using [your phone](../hc/getting-started#joining-on-bedrock) and play with Minecraft Java Edition players in real time.
-* Private and public worlds. Create and collaborate in worlds without protection and those with the highest walls you can get, all on the same server.
-* PvE that you want to play on. No learning how to use a protection plugin, our staff members got you covered. Survive and thrive without any need to figure out "how do I protect this again?"
-* A staff team that has your back. Most of us have years under our belts and have your issue covered. If one person doesn't know; we have two other members who do.
-* Hard work earns rewards. Those who go above and beyond for our community have [something to show for it](../hc/titles-and-honors), and you can too.
+## Ready, player one?
+From our most experienced veteran players to the newest kids on the block; there's always something more to explore. No matter your qualifications, everyone can jump right in and become an active player in the community.
+
+Indulge your creative side, we're built for it.
 
 ## Getting creative wheels spinning
-How we work, collaborate, provide support, and go about making changes is founded in our mission statement.
-
-> The network made for you.
-
-We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active player in the community.
+How we work, collaborate, provide support and make changes is founded in our mission statement. Everything is (literally) built by our members, and the building blocks of the server aren't just in-game.
