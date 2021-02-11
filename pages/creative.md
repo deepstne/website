@@ -14,7 +14,7 @@ ops-username: cxnema
 ops-uuid: 15fb6dd1642e4a619c3b390eb3e551a9
 ops-forum: cxnema
 feature-buttons: true
-feature-button-dark-title: Get started now
+feature-button-dark-title: Start your projects
 feature-button-dark-url: https://darkst.one/hc/getting-started#joining-the-network
 feature-button-color-title: About our worlds
 feature-button-color-url: https://darkst.one/servers/creative#worlds
