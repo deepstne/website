@@ -1,5 +1,5 @@
 ---
-layout: server
+layout: feature
 title: IMPORTANT TAGLINE
 excerpt: slogan
 permalink: /servers/survival
@@ -13,6 +13,7 @@ server: Survival
 ops-username: Saltonic
 ops-uuid: ce74e1fa867041ddbfc89c0c02a8472a
 ops-forum: MrMuffin
+feature-buttons: false
 ---
 
 The Survival server is the place we've made for our community to build and depend on each other in the game's survival mode.

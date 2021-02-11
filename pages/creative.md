@@ -1,5 +1,5 @@
 ---
-layout: server
+layout: feature
 title: There's so much more to see.
 excerpt: The Darkstone Minecraft Network for Java and Bedrock edition. It's the network made for you.
 permalink: /servers/creative
@@ -13,6 +13,7 @@ server: Creative
 ops-username: cxnema
 ops-uuid: 15fb6dd1642e4a619c3b390eb3e551a9
 ops-forum: cxnema
+feature-buttons: false
 ---
 
 ## There's a server for that

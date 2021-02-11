@@ -51,7 +51,8 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
   <summary>How can I report someone for not complying with staff members?</summary>
       <p>Here are the options given to our members if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
+          <li>Open a <a href="https://talk.darkst.one/t/support">support</a> topic on the form. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -96,7 +97,8 @@ All players are deserving of respect, and should not be harmed, attacked, or tre
   <summary>How can I report someone for not being respectful of others?</summary>
       <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
+          <li>Open a <a href="https://talk.darkst.one/t/support">support</a> topic on the form. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -124,7 +126,7 @@ The platforms offered that encourage collaboration and community should be respe
 
 <details>
   <summary>What do we mean by the server?</summary>
-      <p>The "server" refers to all community platforms that are official to UnraveledMC. This includes:</p>
+      <p>The "server" refers to all community platforms that are official to Darkstone. This includes:</p>
         <ul>
           <li>The in-game <a href="{{ site.baseurl }}/hc/getting-started#joining-the-network">Minecraft</a> server</li>
           <li>The <a href="{{ site.baseurl }}/forum">forum</a> community</li>
@@ -136,7 +138,8 @@ The platforms offered that encourage collaboration and community should be respe
   <summary>How can I report someone for not being respectful of the server?</summary>
       <p>Here are the options given to our members if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
+          <li>Open a <a href="https://talk.darkst.one/t/support">support</a> topic on the form. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -152,13 +155,15 @@ Our players should experience an environment that is free from cheating or abuse
 
 <details>
   <summary>What exactly does this rule mean?</summary>
-      <blockquote>Note: All forms of cheating or exploiting are strictly banned on the <span class="survival">Survival</span> server. The mentioned limits on hacks or hacked clients are for the <span class="creative">Creative</span> server specifically.</blockquote>
       <p>All of our players should have access to the same advantages as everyone else. Specifically, avoid the following:</p>
+        <ul>
+          <li>Taking advantage of a bug or error in a program or plugin</li>
+          <li>Not reporting any bugs or errors</li>
+        </ul>
+      <p>We have some additional restrictions for cheating and hacked clients for the <span class="creative">Creative</span> server. All forms of cheating are banned entirely on the <span class="survival">Survival</span> server. 
         <ul>
           <li>Using hacked clients to fight or compete</li>
           <li>Using hacked clients to break the rules</li>
-          <li>Taking advantage of a bug or error in a program or plugin</li>
-          <li>Not reporting any bugs or errors</li>
         </ul>
 </details>
 
@@ -171,7 +176,8 @@ Our players should experience an environment that is free from cheating or abuse
   <summary>How can I report someone for cheating or exploiting?</summary>
       <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
+          <li>Open a <a href="https://talk.darkst.one/t/support">support</a> topic on the form. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -183,7 +189,7 @@ Our players should be able to play in a safe and secure place without fear of th
 <details>
   <summary>Why have this rule?</summary>
       <p>Life is better when it's secure, and our players deserve a place without transactions or account phishing. Security also means being responsible for your own account, and its credentials should be kept to you and you only.</p>
-      <p>Staff members will never ask for personal information or any credentials to your account. File a <a href="https://forum.unraveledmc.com/report">report</a> immediately if this happens.</p>
+      <p>Staff members will never ask for personal information or any credentials to your account. File a <a href="{{ site.baseurl }}/report">report</a> immediately if this happens.</p>
 </details>
 
 <details>
@@ -207,7 +213,8 @@ Our players should be able to play in a safe and secure place without fear of th
   <summary>How can I report someone for not respecting security rules?</summary>
       <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
-          <li><strong><span style="color: #f39c12">Recommended: Forum report.</span></strong> Use the <a href="{{ site.baseurl }}/report/">online form</a> to file a report on the forum.</li>
+          <li><strong><span style="color: #f39c12">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
+          <li>Open a <a href="https://talk.darkst.one/t/support">support</a> topic on the form. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>

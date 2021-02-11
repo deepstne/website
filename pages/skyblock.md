@@ -1,5 +1,5 @@
 ---
-layout: server
+layout: feature
 title: IMPORTANT TAGLINE
 excerpt: slogan
 permalink: /servers/skyblock
@@ -13,6 +13,7 @@ server: Skyblock
 ops-username: Kierxnnn
 ops-uuid: a6165b3611634d98be74ec1c50aef789
 ops-forum: Kierxnnn
+feature-buttons: false
 ---
 
 It's like survival, but it's in the air. Oh, and there's no ground for you to fall on.

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: feature
 title: The network made for you.
 excerpt: The Darkstone Minecraft Network for Java and Bedrock edition masterfully made to satisfy everyone's spontaneously creative side.
 permalink: /
@@ -9,6 +9,12 @@ article_header:
   theme: dark
   background_image:
     src: ../assets/images/hero.png
+feature-buttons: true
+feature-button-dark-title: Community forum
+feature-button-dark-url: https://talk.darkst.one
+feature-button-color-title: Join the Discord
+feature-button-color-url: https://darkst.one/discord
+feature-button-color-hex: 7289DA
 ---
 
 ## Rockin' and rollin'
