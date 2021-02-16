@@ -6,3 +6,6 @@ Server website that provides fundamental information, resources and help guides 
 
 ## Copyright
 This project is licensed under the MIT License.
+
+## Beyond
+This document was last updated on February 16th, 2021.
