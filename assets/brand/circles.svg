@@ -41,13 +41,13 @@
      inkscape:window-height="1051"
      id="namedview134"
      showgrid="false"
-     inkscape:zoom="8.1281687"
-     inkscape:cx="19.64464"
-     inkscape:cy="358.62059"
+     inkscape:zoom="0.7184354"
+     inkscape:cx="-217.89189"
+     inkscape:cy="113.28266"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg132"
+     inkscape:current-layer="g128"
      inkscape:document-rotation="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -70,11 +70,14 @@
   </defs>
   <g
      id="g130"
-     transform="scale(0.99716002)">
+     transform="scale(0.99716002)"
+     style="fill:#000000;fill-opacity:1">
     <g
-       id="g128">
+       id="g128"
+       style="fill:#000000;fill-opacity:1">
       <g
-         id="g114">
+         id="g114"
+         style="fill:#00a8a8;fill-opacity:1">
         <use
            xlink:href="#dhZYd15Vf"
            opacity="1"
@@ -84,10 +87,12 @@
            x="0"
            y="0"
            width="100%"
-           height="100%" />
+           height="100%"
+           style="fill:#00a8a8;fill-opacity:1" />
       </g>
       <g
-         id="g118">
+         id="g118"
+         style="fill:#cb4335;fill-opacity:1">
         <use
            xlink:href="#b1PqPKiPLd"
            opacity="1"
@@ -97,10 +102,12 @@
            x="0"
            y="0"
            width="100%"
-           height="100%" />
+           height="100%"
+           style="fill:#cb4335;fill-opacity:1" />
       </g>
       <g
-         id="g122">
+         id="g122"
+         style="fill:#000000;fill-opacity:1">
         <use
            xlink:href="#b6XTrNc4C"
            opacity="1"
@@ -110,10 +117,12 @@
            x="0"
            y="0"
            width="100%"
-           height="100%" />
+           height="100%"
+           style="fill:#c6c6c6;fill-opacity:1" />
       </g>
       <g
-         id="g126">
+         id="g126"
+         style="fill:#229954;fill-opacity:1">
         <use
            xlink:href="#b43uDuMcAs"
            opacity="1"
@@ -123,7 +132,8 @@
            x="0"
            y="0"
            width="100%"
-           height="100%" />
+           height="100%"
+           style="fill:#229954;fill-opacity:1" />
       </g>
     </g>
   </g>
