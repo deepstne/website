@@ -10,14 +10,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    preserveAspectRatio="xMidYMid meet"
-   viewBox="0 0 430 430"
-   width="430"
-   height="430"
-   id="svg940"
-   sodipodi:docname="circles-gray-transparent.svg"
+   viewBox="0 0 428.77881 428.9184"
+   width="428.77881"
+   height="428.9184"
+   id="svg132"
+   sodipodi:docname="circles-white.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <metadata
-     id="metadata944">
+     id="metadata136">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -39,79 +39,97 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
-     id="namedview942"
+     id="namedview134"
      showgrid="false"
-     inkscape:zoom="2.0465116"
-     inkscape:cx="120.9375"
-     inkscape:cy="215"
+     inkscape:zoom="8.1281687"
+     inkscape:cx="15.830742"
+     inkscape:cy="358.62059"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g938" />
+     inkscape:current-layer="svg132"
+     inkscape:document-rotation="0" />
   <defs
-     id="defs918">
+     id="defs110">
     <path
-       d="M200 100C200 155.19 155.19 200 100 200C44.81 200 0 155.19 0 100C0 44.81 44.81 0 100 0C155.19 0 200 44.81 200 100Z"
+       d="M 200,100 C 200,155.19 155.19,200 100,200 44.81,200 0,155.19 0,100 0,44.81 44.81,0 100,0 155.19,0 200,44.81 200,100 Z"
        id="dhZYd15Vf" />
     <path
-       d="M430 100C430 155.19 385.19 200 330 200C274.81 200 230 155.19 230 100C230 44.81 274.81 0 330 0C385.19 0 430 44.81 430 100Z"
+       d="M 430,100 C 430,155.19 385.19,200 330,200 274.81,200 230,155.19 230,100 230,44.81 274.81,0 330,0 385.19,0 430,44.81 430,100 Z"
        id="b1PqPKiPLd" />
     <path
-       d="M200 329.29C200 384.95 155.19 430.14 100 430.14C44.81 430.14 0 384.95 0 329.29C0 273.63 44.81 228.44 100 228.44C155.19 228.44 200 273.63 200 329.29Z"
+       d="M 200,329.29 C 200,384.95 155.19,430.14 100,430.14 44.81,430.14 0,384.95 0,329.29 0,273.63 44.81,228.44 100,228.44 c 55.19,0 100,45.19 100,100.85 z"
        id="b6XTrNc4C" />
     <path
-       d="M430 329.29C430 384.95 385.19 430.14 330 430.14C274.81 430.14 230 384.95 230 329.29C230 273.63 274.81 228.44 330 228.44C385.19 228.44 430 273.63 430 329.29Z"
+       d="m 430,329.29 c 0,55.66 -44.81,100.85 -100,100.85 -55.19,0 -100,-45.19 -100,-100.85 0,-55.66 44.81,-100.85 100,-100.85 55.19,0 100,45.19 100,100.85 z"
        id="b43uDuMcAs" />
   </defs>
   <g
-     id="g938"
-     style="fill:#cccccc">
+     id="g130"
+     transform="scale(0.99716002)"
+     style="fill:#ffffff;fill-opacity:1">
     <g
-       id="g936"
-       style="fill:#c6c6c6;fill-opacity:1">
+       id="g128"
+       style="fill:#ffffff;fill-opacity:1">
       <g
-         id="g922"
-         style="fill:#c6c6c6;fill-opacity:1">
+         id="g114"
+         style="fill:#ffffff;fill-opacity:1">
         <use
            xlink:href="#dhZYd15Vf"
            opacity="1"
            fill="#00a8a8"
            fill-opacity="1"
-           id="use920"
-           style="fill:#c6c6c6;fill-opacity:1" />
+           id="use112"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
       <g
-         id="g926"
-         style="fill:#c6c6c6;fill-opacity:1">
+         id="g118"
+         style="fill:#ffffff;fill-opacity:1">
         <use
            xlink:href="#b1PqPKiPLd"
            opacity="1"
            fill="#cb4335"
            fill-opacity="1"
-           id="use924"
-           style="fill:#c6c6c6;fill-opacity:1" />
+           id="use116"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
       <g
-         id="g930"
-         style="fill:#c6c6c6;fill-opacity:1">
+         id="g122"
+         style="fill:#ffffff;fill-opacity:1">
         <use
            xlink:href="#b6XTrNc4C"
            opacity="1"
            fill="#c6c6c6"
            fill-opacity="1"
-           id="use928"
-           style="fill:#c6c6c6;fill-opacity:1" />
+           id="use120"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
       <g
-         id="g934"
-         style="fill:#c6c6c6;fill-opacity:1">
+         id="g126"
+         style="fill:#ffffff;fill-opacity:1">
         <use
            xlink:href="#b43uDuMcAs"
            opacity="1"
            fill="#229954"
            fill-opacity="1"
-           id="use932"
-           style="fill:#c6c6c6;fill-opacity:1" />
+           id="use124"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
     </g>
   </g>
