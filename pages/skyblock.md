@@ -16,9 +16,9 @@ ops-forum: Kierxnnn
 feature-buttons: false
 ---
 
-It's like survival, but it's in the air. Oh, and there's no ground for you to fall on.
+Survival, but it's in the air. There's no ground to fall on, either.
 
-All of the server's players can get started building and expanding their own sky island base. Build all by yourself or with friends, everyone starts with an oak tree and a chest. It's skyblock how you know it, and that's why we like it.
+All of the server's players can get started building and expanding their own sky island base. Build all by yourself or with friends, everyone starts with an oak tree and a chest. It's skyblock as you know it, no surpises.
 
 We usually use [oak leaves](https://minecraft.gamepedia.com/Leaves) from the game to identify the Skyblock server.
 
