@@ -212,7 +212,7 @@ defaults:
       pageview: true
   ## docs
   - scope:
-      path: "help-center"
+      path: "hc"
     values:
       layout: article
       nav_key: hc
