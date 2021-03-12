@@ -219,7 +219,6 @@ defaults:
       sidebar:
         nav: help-center
       license: false
-      sharing: true
       aside:
         toc: true
       show_edit_on_github: false
