@@ -10,7 +10,7 @@
    viewBox="0 0 1280 1280"
    version="1.1"
    id="svg1215"
-   sodipodi:docname="sds.svg"
+   sodipodi:docname="guidelines.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <metadata
      id="metadata1219">
@@ -20,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 1</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,13 +38,12 @@
      id="namedview1217"
      showgrid="false"
      inkscape:zoom="0.66171875"
-     inkscape:cx="686.8477"
-     inkscape:cy="649.73174"
+     inkscape:cx="640"
+     inkscape:cy="528.83445"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1215"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="svg1215" />
   <defs
      id="defs1029">
     <style
@@ -54,12 +54,12 @@
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:1200px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';fill:#cccccc"
-     x="247.10228"
-     y="1076.1505"
+     x="184.67329"
+     y="1076.3636"
      id="text1223"><tspan
        sodipodi:role="line"
        id="tspan1221"
-       x="247.10228"
-       y="1076.1505"
-       style="font-size:1200px;fill:#cccccc">S</tspan></text>
+       x="184.67329"
+       y="1076.3636"
+       style="font-size:1200px;fill:#cccccc">G</tspan></text>
 </svg>
