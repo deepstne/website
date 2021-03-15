@@ -20,7 +20,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Artboard 1</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,7 +38,7 @@
      showgrid="false"
      inkscape:zoom="0.66171875"
      inkscape:cx="640"
-     inkscape:cy="703.00216"
+     inkscape:cy="649.73174"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -54,12 +53,12 @@
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:1200px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';fill:#cccccc"
-     x="235.59659"
-     y="1076.3636"
+     x="288.64227"
+     y="1083.5419"
      id="text1223"><tspan
        sodipodi:role="line"
        id="tspan1221"
-       x="235.59659"
-       y="1076.3636"
+       x="288.64227"
+       y="1083.5419"
        style="font-size:1200px;fill:#cccccc">S</tspan></text>
 </svg>

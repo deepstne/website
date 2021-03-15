@@ -5,9 +5,8 @@ permalink: /launcher
 ---
 
 Quick links to access all of the network's most importnat links for all of our players and staff members. Pre-existing credentials might be required to access some of these services.
-<!-- # Player links
-# Member links -->
-## Staff member links
+
+## Staff member links -->
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
@@ -63,4 +62,3 @@ Quick links to access all of the network's most importnat links for all of our p
 </div>
 </center>
 
-<!-- # Operations links -->
