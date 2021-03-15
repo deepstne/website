@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Homepage launcher
 permalink: /launcher
 ---
@@ -8,7 +8,20 @@ permalink: /launcher
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--2"><div><a href="https://panel.darkst.one"><img src="../assets/images/pterodactyl.svg" style="max-width:85%;" alt="Pterodactyl panel"></a></div></div>
+    <div class="cell cell--2">
+        <div>
+            <a href="https://panel.darkst.one">
+            <div class="card card--clickable">
+                <div class="card__image">
+                    <img class="image" src="../assets/images/pterodactyl.svg" style="max-width:85%;" alt="Pterodactyl panel"/>
+                        <div class="overlay overlay--bottom">
+                            <p>Pterodactyl Panel</p>
+                        </div>
+                </div>
+            </div>
+            </a>
+        </div>
+    </div>
     <div class="cell cell--2"><div><img src="../assets/brand/mark-light.svg" style="max-width:85%;" alt="Darkstone dark wordmark"></div></div>
     <div class="cell cell--2"><div><img src="../assets/brand/mark-gray.svg" style="max-width:85%;" alt="Darkstone gray wordmark"></div></div>
     <div class="cell cell--2"><div><img src="../assets/brand/mark-black.svg" style="max-width:85%;" alt="Darkstone black wordmark"></div></div>
