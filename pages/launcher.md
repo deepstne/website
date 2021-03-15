@@ -7,8 +7,7 @@ permalink: /launcher
 Quick links to access all of the network's most importnat links for all of our players and staff members. Pre-existing credentials might be required to access some of these services.
 
 ## Staff member links
-<center>
-<div class="grid">
+<div class="grid-container">
   <div class="grid grid--py-3">
     <div class="cell cell--4">
         <div>
@@ -26,7 +25,7 @@ Quick links to access all of the network's most importnat links for all of our p
             </a>
         </div>
     </div>
-    <div class="cell cell--4>
+    <div class="cell cell--4">
         <div>
             <a href="{{ site.baseurl}}/hc/rules-and-regulations#punishment-guidelines">
             <div class="card card--clickable">
@@ -77,4 +76,3 @@ Quick links to access all of the network's most importnat links for all of our p
   </div>
 </div>
 </center>
-
