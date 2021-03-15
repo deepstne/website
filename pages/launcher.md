@@ -1,11 +1,13 @@
 ---
 layout: page
-header: false
 title: Homepage launcher
 permalink: /launcher
+show_title: false
 ---
 
-## For staff
+<!-- # Player links
+# Member links -->
+# Staff member links
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
@@ -30,3 +32,5 @@ permalink: /launcher
   </div>
 </div>
 </center>
+
+<!-- # Operations links ==>
