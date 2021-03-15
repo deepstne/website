@@ -4,7 +4,7 @@ title: Homepage launcher
 permalink: /launcher
 ---
 
-Quick links to access all of the network's most importnat links for all of our players and staff members. Pre-existing credentials might be required to access some of these services.
+Quick links to access all of the network's most important links for all of our players and staff members. Pre-existing credentials might be required to access some of these services.
 
 ## Staff member links
 <center>
