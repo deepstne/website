@@ -14,9 +14,11 @@ permalink: /launcher
             <div class="card card--clickable">
                 <div class="card__image">
                     <img class="image" src="../assets/images/pterodactyl.svg" style="max-width:85%;" alt="Pterodactyl panel"/>
-                        <div class="overlay overlay--bottom">
-                            <p>Pterodactyl Panel</p>
-                        </div>
+                </div>
+                <div class="card__content">
+                    <div class="card__header">
+                        <h4>Pterodactyl Panel</h4>
+                    </div>
                 </div>
             </div>
             </a>
