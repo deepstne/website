@@ -9,7 +9,7 @@ Quick links to access all of the network's most importnat links for all of our p
 ## Staff member links
 <center>
 <div class="grid">
-  <div class="grid grid--p-3">
+  <div class="grid grid--py-3">
     <div class="cell cell--4">
         <div>
             <a href="https://panel.darkst.one">
