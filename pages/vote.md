@@ -23,8 +23,8 @@ Yes! We share the wealth when you vote for us. We get a little something and you
 
 <span class="creative">Creative</span> perks:
 * Access to the voter-exclusive world on 
-* Increased WorldEdit block change limit on <span class="creative">Creative</span>
-* Additional permissions for voter-exclusive PocketPics kits on <span class="creative">Creative</span>
+* Increased WorldEdit block change limit
+* Additional permissions for voter-exclusive PocketPics
 
 <span class="survival">Survival</span> perks:
 * Increase home count limit
