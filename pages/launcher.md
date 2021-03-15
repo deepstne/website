@@ -1,5 +1,6 @@
 ---
 layout: page
+header: false
 title: Homepage launcher
 permalink: /launcher
 ---
@@ -8,7 +9,7 @@ permalink: /launcher
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--2">
+    <div class="cell cell--3">
         <div>
             <a href="https://panel.darkst.one">
             <div class="card card--clickable">
