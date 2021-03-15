@@ -2,12 +2,12 @@
 layout: page
 title: Homepage launcher
 permalink: /launcher
-show_title: false
 ---
 
+Quick links to access all of the network's most importnat links for all of our players and staff members. Pre-existing credentials might be required to access some of these services.
 <!-- # Player links
 # Member links -->
-# Staff member links
+## Staff member links
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
@@ -27,10 +27,40 @@ show_title: false
             </a>
         </div>
     </div>
-    <div class="cell cell--4"><div><img src="../assets/brand/mark-light.svg" style="max-width:85%;" alt="Darkstone dark wordmark"></div></div>
-    <div class="cell cell--4"><div><img src="../assets/brand/mark-gray.svg" style="max-width:85%;" alt="Darkstone gray wordmark"></div></div>
+    <div class="cell cell--4">
+        <div>
+            <a href="http://darkst.one/pds">
+            <div class="card card--clickable">
+                <div class="card__image">
+                    <img class="image" src="../assets/images/pds.svg" style="max-width:85%;" alt="Player Data System"/>
+                </div>
+                <div class="card__content">
+                    <div class="card__header">
+                        <h4>Player Data System</h4>
+                    </div>
+                </div>
+            </div>
+            </a>
+        </div>
+    </div>
+    <div class="cell cell--4">
+        <div>
+            <a href="http://darkst.one/sds">
+            <div class="card card--clickable">
+                <div class="card__image">
+                    <img class="image" src="../assets/images/sds.svg" style="max-width:85%;" alt="Staff Data System"/>
+                </div>
+                <div class="card__content">
+                    <div class="card__header">
+                        <h4>Staff Data System</h4>
+                    </div>
+                </div>
+            </div>
+            </a>
+        </div>
+    </div>
   </div>
 </div>
 </center>
 
-<!-- # Operations links ==>
+<!-- # Operations links -->
