@@ -28,14 +28,14 @@ Quick links to access all of the network's most importnat links for all of our p
     </div>
     <div class="cell cell--4">
         <div>
-            <a href="{{ site.baseurl}}/hc/rules-and-regulations#punishment-guidelines">
+            <a href="https://lookup.darkst.one">
             <div class="card card--clickable">
                 <div class="card__image">
-                    <img class="image" src="../assets/images/guidelines.svg" style="max-width:85%;" alt="Punishment guidelines"/>
+                    <img class="image" src="../assets/images/lookup.svg" style="max-width:85%;" alt="Account Lookup"/>
                 </div>
                 <div class="card__content">
                     <div class="card__header">
-                        <h4>Punishment guidelines</h4>
+                        <h4>Account Lookup</h4>
                     </div>
                 </div>
             </div>
@@ -68,6 +68,22 @@ Quick links to access all of the network's most importnat links for all of our p
                 <div class="card__content">
                     <div class="card__header">
                         <h4>Staff Data System</h4>
+                    </div>
+                </div>
+            </div>
+            </a>
+        </div>
+    </div>
+    <div class="cell cell--4">
+        <div>
+            <a href="{{ site.baseurl}}/hc/rules-and-regulations#punishment-guidelines">
+            <div class="card card--clickable">
+                <div class="card__image">
+                    <img class="image" src="../assets/images/guidelines.svg" style="max-width:85%;" alt="Punishment guidelines"/>
+                </div>
+                <div class="card__content">
+                    <div class="card__header">
+                        <h4>Punishment guidelines</h4>
                     </div>
                 </div>
             </div>
