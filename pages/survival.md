@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: Explore so much more.
-excerpt: slogan
+excerpt: Survive and thrive. Together.
 permalink: /servers/survival
 mode: immersive
 article_header:
@@ -16,7 +16,7 @@ ops-forum: MrMuffin
 feature-buttons: false
 ---
 
-The Survival server is the place we've made for our community to build and depend on each other in the game's survival mode.
+Survival is the place we've made for our community to build and depend on each other in the game's survival mode.
 
 Regardless if you're a member, everyone has access to the community's survival world. We offer everyone the ability to use the world's resources, protect their items and to thrive in the world shared by our players.
 

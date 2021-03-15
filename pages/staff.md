@@ -16,6 +16,7 @@ Our server staff members are appointed to make sure everything is in line with t
   </div>
 </div>
 </center>
+<a class="button button--secondary button--rounded button--lg" style="background-color: #e74c3c" href="{{ site.baseurl }}/servers/creative">Learn more about Executives</a>
 
 <h3 style="line-height: 2.5rem; border-bottom: 3px #9B59B6 solid;">Developers</h3>
 <center>
@@ -26,6 +27,7 @@ Our server staff members are appointed to make sure everything is in line with t
   </div>
 </div>
 </center>
+<a class="button button--secondary button--rounded button--lg" style="background-color: #652d90" href="{{ site.baseurl }}/servers/creative">Learn more about Developers</a>
 
 <h3 style="line-height: 2.5rem; border-bottom: 3px #E67D21 solid;">Admins</h3>
 <center>
@@ -37,6 +39,7 @@ Our server staff members are appointed to make sure everything is in line with t
   </div>
 </div>
 </center>
+<a class="button button--secondary button--rounded button--lg" style="background-color: #f7941d" href="{{ site.baseurl }}/servers/creative">Learn more about Admins</a>
 
 <h3 style="line-height: 2.5rem; border-bottom: 3px #2BCA70 solid;">Mods</h3>
 <center>
@@ -46,6 +49,8 @@ Our server staff members are appointed to make sure everything is in line with t
     <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="Phenomality" width="108"></a></h3></div></div>
     <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Lukyplex"><img src="https://cravatar.eu/helmhead/8d26d7faf62243cebf19155a1d8488d9" alt="Luckyplex" width="108"></a></h3></div></div>
     <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/bearthedoggo"><img src="https://cravatar.eu/helmhead/f6f26418d9a14463a95d48c493ecc302" alt="bearthedoggo" width="108"></a></h3></div></div>
+    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
+<a class="button button--secondary button--rounded button--lg" style="background-color: #1e8449" href="{{ site.baseurl }}/servers/creative">Learn more about Mods</a>

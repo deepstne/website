@@ -44,7 +44,7 @@ Quick links to access all of the network's most importnat links for all of our p
     </div>
     <div class="cell cell--4">
         <div>
-            <a href="http://darkst.one/pds">
+            <a href="{{ site.baseurl }}/pds">
             <div class="card card--clickable">
                 <div class="card__image">
                     <img class="image" src="../assets/images/pds.svg" style="max-width:85%;" alt="Player Data System"/>
@@ -60,7 +60,7 @@ Quick links to access all of the network's most importnat links for all of our p
     </div>
     <div class="cell cell--4">
         <div>
-            <a href="http://darkst.one/sds">
+            <a href="{{ site.baseurl }}/sds">
             <div class="card card--clickable">
                 <div class="card__image">
                     <img class="image" src="../assets/images/sds.svg" style="max-width:85%;" alt="Staff Data System"/>

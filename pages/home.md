@@ -10,7 +10,7 @@ article_header:
   background_image:
     src: ../assets/images/hero.png
 feature-buttons: true
-feature-button-dark-title: Get started in-game
+feature-button-dark-title: Join the network
 feature-button-dark-url: https://darkst.one/hc/getting-started#joining-on-java
 feature-button-color-title: Join the Discord
 feature-button-color-url: https://darkst.one/discord

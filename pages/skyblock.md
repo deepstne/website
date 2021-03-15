@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: IMPORTANT TAGLINE
-excerpt: slogan
+title: Your eye in the sky.
+excerpt: Down below is no way to go.
 permalink: /servers/skyblock
 mode: immersive
 article_header:
@@ -16,7 +16,7 @@ ops-forum: Kierxnnn
 feature-buttons: false
 ---
 
-Survival, but it's in the air. There's no ground to fall on, either.
+Skyblock is the place to collaborate in the sky. With the server's shop and economy, you'll never run out of supply. 
 
 All of the server's players can get started building and expanding their own sky island base. Build all by yourself or with friends, everyone starts with an oak tree and a chest. It's skyblock as you know it, no surpises.
 
