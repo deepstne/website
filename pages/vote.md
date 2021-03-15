@@ -39,7 +39,7 @@ We're glad you asked. All of the sites we're listed on are shown below. It's rea
 
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--3">
+    <div class="cell cell--6">
         <div>
             <a href="{{ site.baseurl }}/pmc">
             <div class="card card--clickable">
@@ -52,7 +52,7 @@ We're glad you asked. All of the sites we're listed on are shown below. It's rea
             </a>
         </div>
     </div>
-    <div class="cell cell--3">
+    <div class="cell cell--6">
         <div>
             <a href="{{ site.baseurl }}/topg">
             <div class="card card--clickable">
@@ -65,7 +65,7 @@ We're glad you asked. All of the sites we're listed on are shown below. It's rea
             </a>
         </div>
     </div>
-    <div class="cell cell--3">
+    <div class="cell cell--6">
         <div>
             <a href="{{ site.baseurl }}/mcs">
             <div class="card card--clickable">
@@ -78,7 +78,7 @@ We're glad you asked. All of the sites we're listed on are shown below. It's rea
             </a>
         </div>
     </div>
-    <div class="cell cell--3">
+    <div class="cell cell--6">
         <div>
             <a href="{{ site.baseurl }}/mcmp">
             <div class="card card--clickable">
