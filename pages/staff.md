@@ -10,9 +10,10 @@ Our server staff members are appointed to make sure everything is in line with t
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Panther"><img src="https://cravatar.eu/helmhead/6fa574108a8c46d7ab77476ed0cdbe20" alt="PinkPanther1046" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Lakefield"><img src="https://cravatar.eu/helmhead/77ca708d0717449bae691c503296e133" alt="Lakefield" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Darth"><img src="https://cravatar.eu/helmhead/a98d531329f3495ebac149cbafc5aa8e" alt="DarthZonarius" width="108"></a></h3></div></div>
+    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Panther"><img src="https://cravatar.eu/helmhead/6fa574108a8c46d7ab77476ed0cdbe20" alt="PinkPanther1046" width="108"></a></h3></div></div>
+    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Lakefield"><img src="https://cravatar.eu/helmhead/77ca708d0717449bae691c503296e133" alt="Lakefield" width="108"></a></h3></div></div>
+    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Darth"><img src="https://cravatar.eu/helmhead/a98d531329f3495ebac149cbafc5aa8e" alt="DarthZonarius" width="108"></a></h3></div></div>
+    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://cravatar.eu/helmhead/ce74e1fa867041ddbfc89c0c02a8472a" alt="Saltonic" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
@@ -39,7 +40,7 @@ Developers are the staff members who are proficient in multiple programming lang
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://cravatar.eu/helmhead/ce74e1fa867041ddbfc89c0c02a8472a" alt="Saltonic" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/bemoseemo"><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></a></h3></div></div>
     <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://cravatar.eu/helmhead/15fb6dd1642e4a619c3b390eb3e551a9" alt="cxnema" width="108"></a></h3></div></div>
     <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Kierxnnn"><img src="https://cravatar.eu/helmhead/a6165b3611634d98be74ec1c50aef789" alt="Kierxnnn" width="108"></a></h3></div></div>
   </div>
@@ -54,10 +55,7 @@ Admins are staff members who are the network's more efficent general moderators.
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--auto"><div><h3><a href="https://talk.darkst.one/u/bemoseemo"><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></a></h3></div></div>
     <div class="cell cell--auto"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="Phenomality" width="108"></a></h3></div></div>
-    <div class="cell cell--auto"><div><h3><a href="https://talk.darkst.one/u/Lukyplex"><img src="https://cravatar.eu/helmhead/8d26d7faf62243cebf19155a1d8488d9" alt="Luckyplex" width="108"></a></h3></div></div>
-    <div class="cell cell--auto"><div><h3><a href="https://talk.darkst.one/u/bearthedoggo"><img src="https://cravatar.eu/helmhead/f6f26418d9a14463a95d48c493ecc302" alt="bearthedoggo" width="108"></a></h3></div></div>
     <div class="cell cell--auto"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
   </div>
 </div>

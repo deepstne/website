@@ -10,9 +10,9 @@ article_header:
   background_image:
     src: ../assets/images/survival-hero.png
 server: Survival
-ops-username: Saltonic
-ops-uuid: ce74e1fa867041ddbfc89c0c02a8472a
-ops-forum: MrMuffin
+ops-username: Bemoseemo
+ops-uuid: 8a43ac7dc23948c9872ca09060704235
+ops-forum: bemoseemo
 feature-buttons: false
 ---
 

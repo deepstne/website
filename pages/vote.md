@@ -27,7 +27,7 @@ Yes! We share the wealth when you vote for us. We get a little something and you
 * Additional permissions for voter-exclusive PocketPics
 
 <span class="survival">Survival</span> perks:
-* Increase home count limit
+* Increased home count limit
 
 ## How does it work?
 When you submit a vote for us, the server listing website will ask you to submit a username to send rewards to. The network is able to detect the username you submitted, and we automatically give you the "Voter" title in-game. This allows you to access the perks mentioned above.
