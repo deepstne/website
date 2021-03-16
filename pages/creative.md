@@ -15,7 +15,7 @@ ops-uuid: a6165b3611634d98be74ec1c50aef789
 ops-forum: Kierxnnn
 feature-buttons: true
 feature-button-dark-title: Start your projects
-feature-button-dark-url: https://darkst.one/hc/getting-started#joining-on-java
+feature-button-dark-url: https://darkst.one/join
 feature-button-color-title: About our worlds
 feature-button-color-url: https://darkst.one/servers/creative#worlds
 feature-button-color-hex: 00a8a8
@@ -53,7 +53,7 @@ The plot worlds on the server come in two sizes, 85x85 and 251x251. We run the [
 The plot worlds are open to the public and no member application is necessary. On the Creative server you may run `/public` or `/plots85` and `/plots251` in order to access the respective worlds.
 
 #### How do I get started?
-Once you are in a plot world, you can use `/plotme auto` in order to be teleported to and to claim a plot automatically. No effort required. However, if there's a plot in particular that you want to claim, and nobody has already, stand in the plot and run `/p claim`. This will make the plot yours.
+Once you are in a plot world, you can use `/plotme auto` in order to be teleported to and to claim a plot automatically with no effort required. However, if there's a plot in particular that you want to claim that no one else has already, stand in the plot and run `/p claim`. This will make the plot yours.
 
 To add someone to your plot so they can edit it, there are a few options.
 * To add someone with build access **only when the plot owner is online** use `/plot add <player>`.
@@ -73,10 +73,10 @@ You must have applied and been approved for membership before being able to acce
 As one of our member-only worlds, members of the public must apply for building rights in Rhodesia. You can learn more about the perks,  expectations, and application instructions on becoming a server member by visting our [help center](../hc/titles-and-honors#server-membership).
 
 ### Moesia
-We call the vanilla-style overworld "Moesia" with vanilla terrain and village generation. Much like Rhodesia, our members can also establish towns and cities, and shape the world to their liking. There isn't a protection plugin here either, and members manage their own claims.
+We call the vanilla-style overworld "Moesia" with vanilla terrain and village generation. Much like Rhodesia, our members can also establish towns and cities and shape the world to their liking. There isn't a protection plugin here either and members manage their own claims.
 
 #### How do I access Moesia?
 You must have applied and been approved for membership before being able to access Moesia. Once approved, on the Creative server you may run `/private` or `/moesia` in order to access the world.
 
 #### How do I get started?
-As one of our member-only worlds, members of the public must apply for building rights in Rhodesia. You can learn more about the perks,  expectations, and application instructions on becoming a server member by visting our [help center](../hc/titles-and-honors#server-membership).
+As one of our member-only worlds, members of the public must apply for building rights in Rhodesia. You can learn more about the perks,  expectations and application instructions on becoming a server member by visting our [help center](../hc/titles-and-honors#server-membership).

@@ -11,7 +11,7 @@ article_header:
     src: ../assets/images/hero.png
 feature-buttons: true
 feature-button-dark-title: Join the network
-feature-button-dark-url: https://darkst.one/hc/getting-started#joining-on-java
+feature-button-dark-url: https://darkst.one/join
 feature-button-color-title: Join the Discord
 feature-button-color-url: https://darkst.one/discord
 feature-button-color-hex: 7289DA
@@ -60,7 +60,7 @@ Ready to get started? It's easy. Open up Minecraft, enter in our address, and ge
 ## Ready, player one?
 From our most experienced veteran players to the newest kids on the block; there's always something more to explore. No matter your qualifications, everyone can jump right in and become an active player in the community.
 
-Indulge your creative side, we're built for it.
+Indulge your creative side. We're built for it.
 
 ## Getting creative wheels spinning
 How we work, collaborate, provide support and make changes is founded in our mission statement. Everything is (literally) built by our members, and the building blocks of the server aren't just in-game.
