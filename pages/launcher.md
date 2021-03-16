@@ -4,7 +4,31 @@ title: Homepage launcher
 permalink: /launcher
 ---
 
-Quick links to access all of the network's most important links for all of our players and staff members. Pre-existing credentials might be required to access some of these services.
+Quick access for the network's most important links at your fingertips. Pre-existing credentials might be required to access some of these services.
+
+## Player links
+<center>
+<div class="grid-container">
+  <div class="grid grid--py-3">
+    <div class="cell cell--4">
+        <div>
+            <a href="https://talk.darkst.one">
+            <div class="card card--clickable">
+                <div class="card__image">
+                    <img class="image" src="../assets/brand/circles.svg" style="max-width:85%;" alt="Community forum"/>
+                </div>
+                <div class="card__content">
+                    <div class="card__header">
+                        <h4>Community forum</h4>
+                    </div>
+                </div>
+            </div>
+            </a>
+        </div>
+    </div>
+  </div>
+</div>
+</center>
 
 ## Staff member links
 <center>
@@ -15,7 +39,7 @@ Quick links to access all of the network's most important links for all of our p
             <a href="https://panel.darkst.one">
             <div class="card card--clickable">
                 <div class="card__image">
-                    <img class="image" src="../assets/images/pterodactyl.svg" style="max-width:85%;" alt="Pterodactyl panel"/>
+                    <img class="image" src="../assets/images/pterodactyl.svg" style="max-width:85%;" alt="Pterodactyl Panel"/>
                 </div>
                 <div class="card__content">
                     <div class="card__header">
