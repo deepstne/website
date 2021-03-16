@@ -96,6 +96,11 @@
   color: #42cfcc;
 }
 
+/* misc */
 .special-highlight {
-  color: #ff9500;
+  color: $main-color-1;
+}
+
+.launcher-image {
+  max-width: 85%;
 }
